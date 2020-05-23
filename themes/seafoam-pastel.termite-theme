@@ -1,0 +1,40 @@
+# Theme: Seafoam Pastel
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #757575
+# Red
+color2 = #825d4d
+# Green
+color3 = #728c62
+# Yellow
+color4 = #ada16d
+# Blue
+color5 = #4d7b82
+# Magenta
+color6 = #8a7267
+# Cyan
+color7 = #729494
+# Light gray
+color8 = #e0e0e0
+
+# Dark gray
+color9 = #8a8a8a
+# Light Red
+color10 = #cf937a
+# Light Green
+color11 = #98d9aa
+# Light Yellow
+color12 = #fae79d
+# Light Blue
+color13 = #7ac3cf
+# Light Magenta
+color14 = #d6b2a1
+# Light Cyan
+color15 = #ade0e0
+# White
+color16 = #e0e0e0
+
+background = #243435
+foreground = #d4e7d4

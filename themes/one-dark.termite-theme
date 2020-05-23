@@ -1,0 +1,41 @@
+# Theme: One Dark
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #000000
+# Red
+color2 = #E06C75
+# Green
+color3 = #98C379
+# Yellow
+color4 = #D19A66
+# Blue
+color5 = #61AFEF
+# Magenta
+color6 = #C678DD
+# Cyan
+color7 = #56B6C2
+# Light gray
+color8 = #ABB2BF
+
+# Dark gray
+color9 = #5C6370
+# Light Red
+color10 = #E06C75
+# Light Green
+color11 = #98C379
+# Light Yellow
+color12 = #D19A66
+# Light Blue
+color13 = #61AFEF
+# Light Magenta
+color14 = #C678DD
+# Light Cyan
+color15 = #56B6C2
+# White
+color16 = #FFFEFE
+
+background = #1E2127
+foreground = #5C6370
+cursor = #5C6370

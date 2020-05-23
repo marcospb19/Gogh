@@ -1,0 +1,40 @@
+# Theme: Misterioso
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #000000
+# Red
+color2 = #ff4242
+# Green
+color3 = #74af68
+# Yellow
+color4 = #ffad29
+# Blue
+color5 = #338f86
+# Magenta
+color6 = #9414e6
+# Cyan
+color7 = #23d7d7
+# Light gray
+color8 = #e1e1e0
+
+# Dark gray
+color9 = #555555
+# Light Red
+color10 = #ff3242
+# Light Green
+color11 = #74cd68
+# Light Yellow
+color12 = #ffb929
+# Light Blue
+color13 = #23d7d7
+# Light Magenta
+color14 = #ff37ff
+# Light Cyan
+color15 = #00ede1
+# White
+color16 = #ffffff
+
+background = #2d3743
+foreground = #e1e1e0

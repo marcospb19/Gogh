@@ -1,0 +1,40 @@
+# Theme: Espresso Libre
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #000000
+# Red
+color2 = #cc0000
+# Green
+color3 = #1a921c
+# Yellow
+color4 = #f0e53a
+# Blue
+color5 = #0066ff
+# Magenta
+color6 = #c5656b
+# Cyan
+color7 = #06989a
+# Light gray
+color8 = #d3d7cf
+
+# Dark gray
+color9 = #555753
+# Light Red
+color10 = #ef2929
+# Light Green
+color11 = #9aff87
+# Light Yellow
+color12 = #fffb5c
+# Light Blue
+color13 = #43a8ed
+# Light Magenta
+color14 = #ff818a
+# Light Cyan
+color15 = #34e2e2
+# White
+color16 = #eeeeec
+
+background = #2a211c
+foreground = #b8a898

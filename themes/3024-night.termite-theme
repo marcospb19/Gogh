@@ -1,0 +1,40 @@
+# Theme: 3024 Night
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #5c5855
+# Red
+color2 = #db2d20
+# Green
+color3 = #01a252
+# Yellow
+color4 = #fded02
+# Blue
+color5 = #01a0e4
+# Magenta
+color6 = #a16a94
+# Cyan
+color7 = #b5e4f4
+# Light gray
+color8 = #a5a2a2
+
+# Dark gray
+color9 = #5c5855
+# Light Red
+color10 = #e8bbd0
+# Light Green
+color11 = #3a3432
+# Light Yellow
+color12 = #4a4543
+# Light Blue
+color13 = #807d7c
+# Light Magenta
+color14 = #d6d5d4
+# Light Cyan
+color15 = #cdab53
+# White
+color16 = #f7f7f7
+
+background = #090300
+foreground = #a5a2a2

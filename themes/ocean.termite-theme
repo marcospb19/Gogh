@@ -1,0 +1,40 @@
+# Theme: Ocean
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #000000
+# Red
+color2 = #990000
+# Green
+color3 = #00a600
+# Yellow
+color4 = #999900
+# Blue
+color5 = #0000b2
+# Magenta
+color6 = #b200b2
+# Cyan
+color7 = #00a6b2
+# Light gray
+color8 = #bfbfbf
+
+# Dark gray
+color9 = #666666
+# Light Red
+color10 = #e50000
+# Light Green
+color11 = #00d900
+# Light Yellow
+color12 = #e5e500
+# Light Blue
+color13 = #0000ff
+# Light Magenta
+color14 = #e500e5
+# Light Cyan
+color15 = #00e5e5
+# White
+color16 = #e5e5e5
+
+background = #224fbc
+foreground = #ffffff

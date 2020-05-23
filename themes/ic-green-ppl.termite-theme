@@ -1,0 +1,40 @@
+# Theme: Ic Green Ppl
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #1f1f1f
+# Red
+color2 = #fb002a
+# Green
+color3 = #339c24
+# Yellow
+color4 = #659b25
+# Blue
+color5 = #149b45
+# Magenta
+color6 = #53b82c
+# Cyan
+color7 = #2cb868
+# Light gray
+color8 = #e0ffef
+
+# Dark gray
+color9 = #032710
+# Light Red
+color10 = #a7ff3f
+# Light Green
+color11 = #9fff6d
+# Light Yellow
+color12 = #d2ff6d
+# Light Blue
+color13 = #72ffb5
+# Light Magenta
+color14 = #50ff3e
+# Light Cyan
+color15 = #22ff71
+# White
+color16 = #daefd0
+
+background = #3a3d3f
+foreground = #d9efd3

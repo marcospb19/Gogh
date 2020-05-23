@@ -1,0 +1,40 @@
+# Theme: Vs Code Dark+
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #6A787A
+# Red
+color2 = #E9653B
+# Green
+color3 = #39E9A8
+# Yellow
+color4 = #E5B684
+# Blue
+color5 = #44AAE6
+# Magenta
+color6 = #E17599
+# Cyan
+color7 = #3DD5E7
+# Light gray
+color8 = #C3DDE1
+
+# Dark gray
+color9 = #598489
+# Light Red
+color10 = #E65029
+# Light Green
+color11 = #00FF9A
+# Light Yellow
+color12 = #E89440
+# Light Blue
+color13 = #009AFB
+# Light Magenta
+color14 = #FF578F
+# Light Cyan
+color15 = #5FFFFF
+# White
+color16 = #D9FBFF
+
+background = #1E1E1E
+foreground = #CCCCCC

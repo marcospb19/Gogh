@@ -1,0 +1,40 @@
+# Theme: Soft Server
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #000000
+# Red
+color2 = #a2686a
+# Green
+color3 = #9aa56a
+# Yellow
+color4 = #a3906a
+# Blue
+color5 = #6b8fa3
+# Magenta
+color6 = #6a71a3
+# Cyan
+color7 = #6ba58f
+# Light gray
+color8 = #99a3a2
+
+# Dark gray
+color9 = #666c6c
+# Light Red
+color10 = #dd5c60
+# Light Green
+color11 = #bfdf55
+# Light Yellow
+color12 = #deb360
+# Light Blue
+color13 = #62b1df
+# Light Magenta
+color14 = #606edf
+# Light Cyan
+color15 = #64e39c
+# White
+color16 = #d2e0de
+
+background = #242626
+foreground = #99a3a2

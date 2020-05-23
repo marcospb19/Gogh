@@ -1,0 +1,40 @@
+# Theme: Elementary
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #303030
+# Red
+color2 = #e1321a
+# Green
+color3 = #6ab017
+# Yellow
+color4 = #ffc005
+# Blue
+color5 = #004f9e
+# Magenta
+color6 = #ec0048
+# Cyan
+color7 = #2aa7e7
+# Light gray
+color8 = #f2f2f2
+
+# Dark gray
+color9 = #5d5d5d
+# Light Red
+color10 = #ff361e
+# Light Green
+color11 = #7bc91f
+# Light Yellow
+color12 = #ffd00a
+# Light Blue
+color13 = #0071ff
+# Light Magenta
+color14 = #ff1d62
+# Light Cyan
+color15 = #4bb8fd
+# White
+color16 = #a020f0
+
+background = #101010
+foreground = #f2f2f2

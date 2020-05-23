@@ -1,0 +1,40 @@
+# Theme: Clone Of Ubuntu
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #2E3436
+# Red
+color2 = #CC0000
+# Green
+color3 = #4E9A06
+# Yellow
+color4 = #C4A000
+# Blue
+color5 = #3465A4
+# Magenta
+color6 = #75507B
+# Cyan
+color7 = #06989A
+# Light gray
+color8 = #D3D7CF
+
+# Dark gray
+color9 = #555753
+# Light Red
+color10 = #EF2929
+# Light Green
+color11 = #8AE234
+# Light Yellow
+color12 = #FCE94F
+# Light Blue
+color13 = #729FCF
+# Light Magenta
+color14 = #AD7FA8
+# Light Cyan
+color15 = #34E2E2
+# White
+color16 = #EEEEEC
+
+background = #300a24
+foreground = #ffffff

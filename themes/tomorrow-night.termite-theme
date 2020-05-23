@@ -1,0 +1,41 @@
+# Theme: Tomorrow Night
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #000000
+# Red
+color2 = #CC6666
+# Green
+color3 = #B5BD68
+# Yellow
+color4 = #F0C674
+# Blue
+color5 = #81A2BE
+# Magenta
+color6 = #B293BB
+# Cyan
+color7 = #8ABEB7
+# Light gray
+color8 = #FFFEFE
+
+# Dark gray
+color9 = #000000
+# Light Red
+color10 = #CC6666
+# Light Green
+color11 = #B5BD68
+# Light Yellow
+color12 = #F0C574
+# Light Blue
+color13 = #80A1BD
+# Light Magenta
+color14 = #B294BA
+# Light Cyan
+color15 = #8ABDB6
+# White
+color16 = #FFFEFE
+
+background = #1D1F21
+foreground = #C5C8C6
+cursor = #C4C8C5

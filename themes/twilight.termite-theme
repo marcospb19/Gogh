@@ -1,0 +1,40 @@
+# Theme: Twilight
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #262626
+# Red
+color2 = #c06d44
+# Green
+color3 = #afb97a
+# Yellow
+color4 = #c2a86c
+# Blue
+color5 = #44474a
+# Magenta
+color6 = #b4be7c
+# Cyan
+color7 = #778385
+# Light gray
+color8 = #ffffd4
+
+# Dark gray
+color9 = #262626
+# Light Red
+color10 = #de7c4c
+# Light Green
+color11 = #ccd88c
+# Light Yellow
+color12 = #e2c47e
+# Light Blue
+color13 = #5a5e62
+# Light Magenta
+color14 = #d0dc8e
+# Light Cyan
+color15 = #8a989b
+# White
+color16 = #ffffd4
+
+background = #141414
+foreground = #ffffd4

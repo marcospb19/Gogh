@@ -1,0 +1,40 @@
+# Theme: Arthur
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #3d352a
+# Red
+color2 = #cd5c5c
+# Green
+color3 = #86af80
+# Yellow
+color4 = #e8ae5b
+# Blue
+color5 = #6495ed
+# Magenta
+color6 = #deb887
+# Cyan
+color7 = #b0c4de
+# Light gray
+color8 = #bbaa99
+
+# Dark gray
+color9 = #554444
+# Light Red
+color10 = #cc5533
+# Light Green
+color11 = #88aa22
+# Light Yellow
+color12 = #ffa75d
+# Light Blue
+color13 = #87ceeb
+# Light Magenta
+color14 = #996600
+# Light Cyan
+color15 = #b0c4de
+# White
+color16 = #ddccbb
+
+background = #1c1c1c
+foreground = #ddeedd

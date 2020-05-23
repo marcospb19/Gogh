@@ -1,0 +1,40 @@
+# Theme: Molokai
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #555555
+# Red
+color2 = #7325FA
+# Green
+color3 = #23E298
+# Yellow
+color4 = #60D4DF
+# Blue
+color5 = #D08010
+# Magenta
+color6 = #FF0087
+# Cyan
+color7 = #D0A843
+# Light gray
+color8 = #BBBBBB
+
+# Dark gray
+color9 = #555555
+# Light Red
+color10 = #9D66F6
+# Light Green
+color11 = #5FE0B1
+# Light Yellow
+color12 = #6DF2FF
+# Light Blue
+color13 = #FFAF00
+# Light Magenta
+color14 = #FF87AF
+# Light Cyan
+color15 = #FFCE51
+# White
+color16 = #FFFFFF
+
+background = #1b1d1e
+foreground = #BBBBBB

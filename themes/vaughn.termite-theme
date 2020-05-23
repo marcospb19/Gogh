@@ -1,0 +1,40 @@
+# Theme: Vaughn
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #709080
+# Red
+color2 = #705050
+# Green
+color3 = #60b48a
+# Yellow
+color4 = #dfaf8f
+# Blue
+color5 = #5555ff
+# Magenta
+color6 = #f08cc3
+# Cyan
+color7 = #8cd0d3
+# Light gray
+color8 = #709080
+
+# Dark gray
+color9 = #709080
+# Light Red
+color10 = #dca3a3
+# Light Green
+color11 = #60b48a
+# Light Yellow
+color12 = #f0dfaf
+# Light Blue
+color13 = #5555ff
+# Light Magenta
+color14 = #ec93d3
+# Light Cyan
+color15 = #93e0e3
+# White
+color16 = #ffffff
+
+background = #25234f
+foreground = #dcdccc

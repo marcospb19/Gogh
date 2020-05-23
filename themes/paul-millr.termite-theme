@@ -1,0 +1,40 @@
+# Theme: Paul Millr
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #2a2a2a
+# Red
+color2 = #ff0000
+# Green
+color3 = #79ff0f
+# Yellow
+color4 = #d3bf00
+# Blue
+color5 = #396bd7
+# Magenta
+color6 = #b449be
+# Cyan
+color7 = #66ccff
+# Light gray
+color8 = #bbbbbb
+
+# Dark gray
+color9 = #666666
+# Light Red
+color10 = #ff0080
+# Light Green
+color11 = #66ff66
+# Light Yellow
+color12 = #f3d64e
+# Light Blue
+color13 = #709aed
+# Light Magenta
+color14 = #db67e6
+# Light Cyan
+color15 = #7adff2
+# White
+color16 = #ffffff
+
+background = #000000
+foreground = #f2f2f2

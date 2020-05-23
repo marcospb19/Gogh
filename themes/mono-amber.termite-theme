@@ -1,0 +1,40 @@
+# Theme: Mono-Amber
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #402500
+# Red
+color2 = #FF9400
+# Green
+color3 = #FF9400
+# Yellow
+color4 = #FF9400
+# Blue
+color5 = #FF9400
+# Magenta
+color6 = #FF9400
+# Cyan
+color7 = #FF9400
+# Light gray
+color8 = #FF9400
+
+# Dark gray
+color9 = #FF9400
+# Light Red
+color10 = #FF9400
+# Light Green
+color11 = #FF9400
+# Light Yellow
+color12 = #FF9400
+# Light Blue
+color13 = #FF9400
+# Light Magenta
+color14 = #FF9400
+# Light Cyan
+color15 = #FF9400
+# White
+color16 = #FF9400
+
+background = #2B1900
+foreground = #FF9400

@@ -1,0 +1,40 @@
+# Theme: Base16: Google (Dark)
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #969896
+# Red
+color2 = #CC342B
+# Green
+color3 = #198844
+# Yellow
+color4 = #FBA922
+# Blue
+color5 = #3971ED
+# Magenta
+color6 = #A36AC7
+# Cyan
+color7 = #3971ED
+# Light gray
+color8 = #C5C8C6
+
+# Dark gray
+color9 = #969896
+# Light Red
+color10 = #CC342B
+# Light Green
+color11 = #198844
+# Light Yellow
+color12 = #FBA922
+# Light Blue
+color13 = #3971ED
+# Light Magenta
+color14 = #A36AC7
+# Light Cyan
+color15 = #3971ED
+# White
+color16 = #FFFFFF
+
+background = #1D1F21
+foreground = #B4B7B4

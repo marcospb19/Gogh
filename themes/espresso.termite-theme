@@ -1,0 +1,40 @@
+# Theme: Espresso
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #353535
+# Red
+color2 = #d25252
+# Green
+color3 = #a5c261
+# Yellow
+color4 = #ffc66d
+# Blue
+color5 = #6c99bb
+# Magenta
+color6 = #d197d9
+# Cyan
+color7 = #bed6ff
+# Light gray
+color8 = #eeeeec
+
+# Dark gray
+color9 = #535353
+# Light Red
+color10 = #f00c0c
+# Light Green
+color11 = #c2e075
+# Light Yellow
+color12 = #e1e48b
+# Light Blue
+color13 = #8ab7d9
+# Light Magenta
+color14 = #efb5f7
+# Light Cyan
+color15 = #dcf4ff
+# White
+color16 = #ffffff
+
+background = #323232
+foreground = #ffffff

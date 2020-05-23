@@ -1,0 +1,40 @@
+# Theme: Mona Lisa
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #351b0e
+# Red
+color2 = #9b291c
+# Green
+color3 = #636232
+# Yellow
+color4 = #c36e28
+# Blue
+color5 = #515c5d
+# Magenta
+color6 = #9b1d29
+# Cyan
+color7 = #588056
+# Light gray
+color8 = #f7d75c
+
+# Dark gray
+color9 = #874228
+# Light Red
+color10 = #ff4331
+# Light Green
+color11 = #b4b264
+# Light Yellow
+color12 = #ff9566
+# Light Blue
+color13 = #9eb2b4
+# Light Magenta
+color14 = #ff5b6a
+# Light Cyan
+color15 = #8acd8f
+# White
+color16 = #ffe598
+
+background = #120b0d
+foreground = #f7d66a

@@ -1,0 +1,40 @@
+# Theme: Solarized Darcula
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #25292a
+# Red
+color2 = #f24840
+# Green
+color3 = #629655
+# Yellow
+color4 = #b68800
+# Blue
+color5 = #2075c7
+# Magenta
+color6 = #797fd4
+# Cyan
+color7 = #15968d
+# Light gray
+color8 = #d2d8d9
+
+# Dark gray
+color9 = #25292a
+# Light Red
+color10 = #f24840
+# Light Green
+color11 = #629655
+# Light Yellow
+color12 = #b68800
+# Light Blue
+color13 = #2075c7
+# Light Magenta
+color14 = #797fd4
+# Light Cyan
+color15 = #15968d
+# White
+color16 = #d2d8d9
+
+background = #3d3f41
+foreground = #d2d8d9

@@ -1,0 +1,41 @@
+# Theme: Fairy Floss Dark
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #75507B
+# Red
+color2 = #A8757B
+# Green
+color3 = #FF857F
+# Yellow
+color4 = #E6C000
+# Blue
+color5 = #AE81FF
+# Magenta
+color6 = #716799
+# Cyan
+color7 = #C2FFDF
+# Light gray
+color8 = #F8F8F2
+
+# Dark gray
+color9 = #75507B
+# Light Red
+color10 = #FFB8D1
+# Light Green
+color11 = #F1568E
+# Light Yellow
+color12 = #D5A425
+# Light Blue
+color13 = #C5A3FF
+# Light Magenta
+color14 = #8077A8
+# Light Cyan
+color15 = #C2FFFF
+# White
+color16 = #F8F8F0
+
+background = #42395D
+foreground = #C2FFDF
+cursor = #FFB8D1

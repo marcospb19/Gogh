@@ -1,0 +1,40 @@
+# Theme: Vibrant Ink
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #878787
+# Red
+color2 = #ff6600
+# Green
+color3 = #ccff04
+# Yellow
+color4 = #ffcc00
+# Blue
+color5 = #44b4cc
+# Magenta
+color6 = #9933cc
+# Cyan
+color7 = #44b4cc
+# Light gray
+color8 = #f5f5f5
+
+# Dark gray
+color9 = #555555
+# Light Red
+color10 = #ff0000
+# Light Green
+color11 = #00ff00
+# Light Yellow
+color12 = #ffff00
+# Light Blue
+color13 = #0000ff
+# Light Magenta
+color14 = #ff00ff
+# Light Cyan
+color15 = #00ffff
+# White
+color16 = #e5e5e5
+
+background = #000000
+foreground = #ffffff

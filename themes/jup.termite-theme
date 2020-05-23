@@ -1,0 +1,40 @@
+# Theme: Jup
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #000000
+# Red
+color2 = #dd006f
+# Green
+color3 = #6fdd00
+# Yellow
+color4 = #dd6f00
+# Blue
+color5 = #006fdd
+# Magenta
+color6 = #6f00dd
+# Cyan
+color7 = #00dd6f
+# Light gray
+color8 = #f2f2f2
+
+# Dark gray
+color9 = #7d7d7d
+# Light Red
+color10 = #ff74b9
+# Light Green
+color11 = #b9ff74
+# Light Yellow
+color12 = #ffb974
+# Light Blue
+color13 = #74b9ff
+# Light Magenta
+color14 = #b974ff
+# Light Cyan
+color15 = #74ffb9
+# White
+color16 = #ffffff
+
+background = #758480
+foreground = #23476a

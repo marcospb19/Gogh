@@ -1,0 +1,41 @@
+# Theme: Tomorrow Night Eighties
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #000000
+# Red
+color2 = #F27779
+# Green
+color3 = #99CC99
+# Yellow
+color4 = #FFCC66
+# Blue
+color5 = #6699CC
+# Magenta
+color6 = #CC99CC
+# Cyan
+color7 = #66CCCC
+# Light gray
+color8 = #FFFEFE
+
+# Dark gray
+color9 = #000000
+# Light Red
+color10 = #F17779
+# Light Green
+color11 = #99CC99
+# Light Yellow
+color12 = #FFCC66
+# Light Blue
+color13 = #6699CC
+# Light Magenta
+color14 = #CC99CC
+# Light Cyan
+color15 = #66CCCC
+# White
+color16 = #FFFEFE
+
+background = #2C2C2C
+foreground = #CCCCCC
+cursor = #CCCCCC

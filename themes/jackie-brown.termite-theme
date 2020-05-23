@@ -1,0 +1,40 @@
+# Theme: Jackie Brown
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #666666
+# Red
+color2 = #ef5734
+# Green
+color3 = #2baf2b
+# Yellow
+color4 = #bebf00
+# Blue
+color5 = #246eb2
+# Magenta
+color6 = #d05ec1
+# Cyan
+color7 = #00acee
+# Light gray
+color8 = #bfbfbf
+
+# Dark gray
+color9 = #666666
+# Light Red
+color10 = #e50000
+# Light Green
+color11 = #86a93e
+# Light Yellow
+color12 = #e5e500
+# Light Blue
+color13 = #0000ff
+# Light Magenta
+color14 = #e500e5
+# Light Cyan
+color15 = #00e5e5
+# White
+color16 = #e5e5e5
+
+background = #2c1d16
+foreground = #ffcc2f

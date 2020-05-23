@@ -1,0 +1,40 @@
+# Theme: Adventure Time
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #050404
+# Red
+color2 = #bd0013
+# Green
+color3 = #4ab118
+# Yellow
+color4 = #e7741e
+# Blue
+color5 = #0f4ac6
+# Magenta
+color6 = #665993
+# Cyan
+color7 = #70a598
+# Light gray
+color8 = #f8dcc0
+
+# Dark gray
+color9 = #4e7cbf
+# Light Red
+color10 = #fc5f5a
+# Light Green
+color11 = #9eff6e
+# Light Yellow
+color12 = #efc11a
+# Light Blue
+color13 = #1997c6
+# Light Magenta
+color14 = #9b5953
+# Light Cyan
+color15 = #c8faf4
+# White
+color16 = #f6f5fb
+
+background = #1f1d45
+foreground = #f8dcc0

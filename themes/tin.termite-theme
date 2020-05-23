@@ -1,0 +1,40 @@
+# Theme: Tin
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #000000
+# Red
+color2 = #8d534e
+# Green
+color3 = #4e8d53
+# Yellow
+color4 = #888d4e
+# Blue
+color5 = #534e8d
+# Magenta
+color6 = #8d4e88
+# Cyan
+color7 = #4e888d
+# Light gray
+color8 = #ffffff
+
+# Dark gray
+color9 = #000000
+# Light Red
+color10 = #b57d78
+# Light Green
+color11 = #78b57d
+# Light Yellow
+color12 = #b0b578
+# Light Blue
+color13 = #7d78b5
+# Light Magenta
+color14 = #b578b0
+# Light Cyan
+color15 = #78b0b5
+# White
+color16 = #ffffff
+
+background = #2e2e35
+foreground = #ffffff

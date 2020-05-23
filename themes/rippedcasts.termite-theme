@@ -1,0 +1,40 @@
+# Theme: Rippedcasts
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #000000
+# Red
+color2 = #cdaf95
+# Green
+color3 = #a8ff60
+# Yellow
+color4 = #bfbb1f
+# Blue
+color5 = #75a5b0
+# Magenta
+color6 = #ff73fd
+# Cyan
+color7 = #5a647e
+# Light gray
+color8 = #bfbfbf
+
+# Dark gray
+color9 = #666666
+# Light Red
+color10 = #eecbad
+# Light Green
+color11 = #bcee68
+# Light Yellow
+color12 = #e5e500
+# Light Blue
+color13 = #86bdc9
+# Light Magenta
+color14 = #e500e5
+# Light Cyan
+color15 = #8c9bc4
+# White
+color16 = #e5e5e5
+
+background = #2b2b2b
+foreground = #ffffff

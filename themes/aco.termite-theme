@@ -1,0 +1,40 @@
+# Theme: Aco
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #3f3f3f
+# Red
+color2 = #ff0883
+# Green
+color3 = #83ff08
+# Yellow
+color4 = #ff8308
+# Blue
+color5 = #0883ff
+# Magenta
+color6 = #8308ff
+# Cyan
+color7 = #08ff83
+# Light gray
+color8 = #bebebe
+
+# Dark gray
+color9 = #474747
+# Light Red
+color10 = #ff1e8e
+# Light Green
+color11 = #8eff1e
+# Light Yellow
+color12 = #ff8e1e
+# Light Blue
+color13 = #1e8eff
+# Light Magenta
+color14 = #8e1eff
+# Light Cyan
+color15 = #1eff8e
+# White
+color16 = #c4c4c4
+
+background = #1f1305
+foreground = #b4e1fd

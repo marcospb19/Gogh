@@ -1,0 +1,40 @@
+# Theme: Dimmed Monokai
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #3a3d43
+# Red
+color2 = #be3f48
+# Green
+color3 = #879a3b
+# Yellow
+color4 = #c5a635
+# Blue
+color5 = #4f76a1
+# Magenta
+color6 = #855c8d
+# Cyan
+color7 = #578fa4
+# Light gray
+color8 = #b9bcba
+
+# Dark gray
+color9 = #888987
+# Light Red
+color10 = #fb001f
+# Light Green
+color11 = #0f722f
+# Light Yellow
+color12 = #c47033
+# Light Blue
+color13 = #186de3
+# Light Magenta
+color14 = #fb0067
+# Light Cyan
+color15 = #2e706d
+# White
+color16 = #fdffb9
+
+background = #1f1f1f
+foreground = #b9bcba

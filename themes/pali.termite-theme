@@ -1,0 +1,40 @@
+# Theme: Pali
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #0a0a0a
+# Red
+color2 = #ab8f74
+# Green
+color3 = #74ab8f
+# Yellow
+color4 = #8fab74
+# Blue
+color5 = #8f74ab
+# Magenta
+color6 = #ab748f
+# Cyan
+color7 = #748fab
+# Light gray
+color8 = #F2F2F2
+
+# Dark gray
+color9 = #5D5D5D
+# Light Red
+color10 = #FF1D62
+# Light Green
+color11 = #9cc3af
+# Light Yellow
+color12 = #FFD00A
+# Light Blue
+color13 = #af9cc3
+# Light Magenta
+color14 = #FF1D62
+# Light Cyan
+color15 = #4BB8FD
+# White
+color16 = #A020F0
+
+background = #232E37
+foreground = #d9e6f2

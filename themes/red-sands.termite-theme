@@ -1,0 +1,40 @@
+# Theme: Red Sands
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #000000
+# Red
+color2 = #ff3f00
+# Green
+color3 = #00bb00
+# Yellow
+color4 = #e7b000
+# Blue
+color5 = #0072ff
+# Magenta
+color6 = #bb00bb
+# Cyan
+color7 = #00bbbb
+# Light gray
+color8 = #bbbbbb
+
+# Dark gray
+color9 = #555555
+# Light Red
+color10 = #bb0000
+# Light Green
+color11 = #00bb00
+# Light Yellow
+color12 = #e7b000
+# Light Blue
+color13 = #0072ae
+# Light Magenta
+color14 = #ff55ff
+# Light Cyan
+color15 = #55ffff
+# White
+color16 = #ffffff
+
+background = #7a251e
+foreground = #d7c9a7

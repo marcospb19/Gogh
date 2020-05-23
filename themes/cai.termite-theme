@@ -1,0 +1,40 @@
+# Theme: Cai
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #000000
+# Red
+color2 = #ca274d
+# Green
+color3 = #4dca27
+# Yellow
+color4 = #caa427
+# Blue
+color5 = #274dca
+# Magenta
+color6 = #a427ca
+# Cyan
+color7 = #27caa4
+# Light gray
+color8 = #808080
+
+# Dark gray
+color9 = #808080
+# Light Red
+color10 = #e98da3
+# Light Green
+color11 = #a3e98d
+# Light Yellow
+color12 = #e9d48d
+# Light Blue
+color13 = #8da3e9
+# Light Magenta
+color14 = #d48de9
+# Light Cyan
+color15 = #8de9d4
+# White
+color16 = #ffffff
+
+background = #09111a
+foreground = #d9e6f2

@@ -1,0 +1,40 @@
+# Theme: Japanesque
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #343935
+# Red
+color2 = #cf3f61
+# Green
+color3 = #7bb75b
+# Yellow
+color4 = #e9b32a
+# Blue
+color5 = #4c9ad4
+# Magenta
+color6 = #a57fc4
+# Cyan
+color7 = #389aad
+# Light gray
+color8 = #fafaf6
+
+# Dark gray
+color9 = #595b59
+# Light Red
+color10 = #d18fa6
+# Light Green
+color11 = #767f2c
+# Light Yellow
+color12 = #78592f
+# Light Blue
+color13 = #135979
+# Light Magenta
+color14 = #604291
+# Light Cyan
+color15 = #76bbca
+# White
+color16 = #b2b5ae
+
+background = #1e1e1e
+foreground = #f7f6ec

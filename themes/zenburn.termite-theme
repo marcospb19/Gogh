@@ -1,0 +1,40 @@
+# Theme: Zenburn
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #4d4d4d
+# Red
+color2 = #705050
+# Green
+color3 = #60b48a
+# Yellow
+color4 = #f0dfaf
+# Blue
+color5 = #506070
+# Magenta
+color6 = #dc8cc3
+# Cyan
+color7 = #8cd0d3
+# Light gray
+color8 = #dcdccc
+
+# Dark gray
+color9 = #709080
+# Light Red
+color10 = #dca3a3
+# Light Green
+color11 = #c3bf9f
+# Light Yellow
+color12 = #e0cf9f
+# Light Blue
+color13 = #94bff3
+# Light Magenta
+color14 = #ec93d3
+# Light Cyan
+color15 = #93e0e3
+# White
+color16 = #ffffff
+
+background = #3f3f3f
+foreground = #dcdccc

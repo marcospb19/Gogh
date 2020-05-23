@@ -1,0 +1,40 @@
+# Theme: Paraiso Dark
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #776e71
+# Red
+color2 = #ef6155
+# Green
+color3 = #48b685
+# Yellow
+color4 = #fec418
+# Blue
+color5 = #06b6ef
+# Magenta
+color6 = #815ba4
+# Cyan
+color7 = #5bc4bf
+# Light gray
+color8 = #a39e9b
+
+# Dark gray
+color9 = #776e71
+# Light Red
+color10 = #ef6155
+# Light Green
+color11 = #48b685
+# Light Yellow
+color12 = #fec418
+# Light Blue
+color13 = #06b6ef
+# Light Magenta
+color14 = #815ba4
+# Light Cyan
+color15 = #5bc4bf
+# White
+color16 = #e7e9db
+
+background = #2f1e2e
+foreground = #a39e9b

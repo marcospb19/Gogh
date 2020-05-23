@@ -1,0 +1,40 @@
+# Theme: Novel
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #000000
+# Red
+color2 = #cc0000
+# Green
+color3 = #009600
+# Yellow
+color4 = #d06b00
+# Blue
+color5 = #0000cc
+# Magenta
+color6 = #cc00cc
+# Cyan
+color7 = #0087cc
+# Light gray
+color8 = #cccccc
+
+# Dark gray
+color9 = #808080
+# Light Red
+color10 = #cc0000
+# Light Green
+color11 = #009600
+# Light Yellow
+color12 = #d06b00
+# Light Blue
+color13 = #0000cc
+# Light Magenta
+color14 = #cc00cc
+# Light Cyan
+color15 = #0087cc
+# White
+color16 = #ffffff
+
+background = #dfdbc3
+foreground = #3b2322

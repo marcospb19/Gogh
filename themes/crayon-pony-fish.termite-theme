@@ -1,0 +1,40 @@
+# Theme: Crayon Pony Fish
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #2b1b1d
+# Red
+color2 = #91002b
+# Green
+color3 = #579524
+# Yellow
+color4 = #ab311b
+# Blue
+color5 = #8c87b0
+# Magenta
+color6 = #692f50
+# Cyan
+color7 = #e8a866
+# Light gray
+color8 = #68525a
+
+# Dark gray
+color9 = #3d2b2e
+# Light Red
+color10 = #c5255d
+# Light Green
+color11 = #8dff57
+# Light Yellow
+color12 = #c8381d
+# Light Blue
+color13 = #cfc9ff
+# Light Magenta
+color14 = #fc6cba
+# Light Cyan
+color15 = #ffceaf
+# White
+color16 = #b0949d
+
+background = #150707
+foreground = #68525a

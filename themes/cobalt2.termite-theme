@@ -1,0 +1,40 @@
+# Theme: Cobalt 2
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #000000
+# Red
+color2 = #ff0000
+# Green
+color3 = #38de21
+# Yellow
+color4 = #ffe50a
+# Blue
+color5 = #1460d2
+# Magenta
+color6 = #ff005d
+# Cyan
+color7 = #00bbbb
+# Light gray
+color8 = #bbbbbb
+
+# Dark gray
+color9 = #555555
+# Light Red
+color10 = #f40e17
+# Light Green
+color11 = #3bd01d
+# Light Yellow
+color12 = #edc809
+# Light Blue
+color13 = #5555ff
+# Light Magenta
+color14 = #ff55ff
+# Light Cyan
+color15 = #6ae3fa
+# White
+color16 = #ffffff
+
+background = #132738
+foreground = #ffffff

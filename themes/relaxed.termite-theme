@@ -1,0 +1,41 @@
+# Theme: Relaxed
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #151515
+# Red
+color2 = #BC5653
+# Green
+color3 = #909D63
+# Yellow
+color4 = #EBC17A
+# Blue
+color5 = #6A8799
+# Magenta
+color6 = #B06698
+# Cyan
+color7 = #C9DFFF
+# Light gray
+color8 = #D9D9D9
+
+# Dark gray
+color9 = #636363
+# Light Red
+color10 = #BC5653
+# Light Green
+color11 = #A0AC77
+# Light Yellow
+color12 = #EBC17A
+# Light Blue
+color13 = #7EAAC7
+# Light Magenta
+color14 = #B06698
+# Light Cyan
+color15 = #ACBBD0
+# White
+color16 = #F7F7F7
+
+background = #353A44
+foreground = #D9D9D9
+highlight = #6A8799

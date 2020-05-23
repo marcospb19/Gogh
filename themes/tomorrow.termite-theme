@@ -1,0 +1,41 @@
+# Theme: Tomorrow
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #000000
+# Red
+color2 = #C82828
+# Green
+color3 = #718C00
+# Yellow
+color4 = #EAB700
+# Blue
+color5 = #4171AE
+# Magenta
+color6 = #8959A8
+# Cyan
+color7 = #3E999F
+# Light gray
+color8 = #FFFEFE
+
+# Dark gray
+color9 = #000000
+# Light Red
+color10 = #C82828
+# Light Green
+color11 = #708B00
+# Light Yellow
+color12 = #E9B600
+# Light Blue
+color13 = #4170AE
+# Light Magenta
+color14 = #8958A7
+# Light Cyan
+color15 = #3D999F
+# White
+color16 = #FFFEFE
+
+background = #FFFFFF
+foreground = #4D4D4C
+cursor = #4C4C4C

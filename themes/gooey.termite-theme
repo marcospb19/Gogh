@@ -1,0 +1,40 @@
+# Theme: Gooey
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #000009
+# Red
+color2 = #BB4F6C
+# Green
+color3 = #72CCAE
+# Yellow
+color4 = #C65E3D
+# Blue
+color5 = #58B6CA
+# Magenta
+color6 = #6488C4
+# Cyan
+color7 = #8D84C6
+# Light gray
+color8 = #858893
+
+# Dark gray
+color9 = #1f222d
+# Light Red
+color10 = #ee829f
+# Light Green
+color11 = #a5ffe1
+# Light Yellow
+color12 = #f99170
+# Light Blue
+color13 = #8be9fd
+# Light Magenta
+color14 = #97bbf7
+# Light Cyan
+color15 = #c0b7f9
+# White
+color16 = #ffffff
+
+background = #0D101B
+foreground = #EBEEF9

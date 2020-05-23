@@ -1,0 +1,40 @@
+# Theme: Sea Shells
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #17384c
+# Red
+color2 = #d15123
+# Green
+color3 = #027c9b
+# Yellow
+color4 = #fca02f
+# Blue
+color5 = #1e4950
+# Magenta
+color6 = #68d4f1
+# Cyan
+color7 = #50a3b5
+# Light gray
+color8 = #deb88d
+
+# Dark gray
+color9 = #434b53
+# Light Red
+color10 = #d48678
+# Light Green
+color11 = #628d98
+# Light Yellow
+color12 = #fdd39f
+# Light Blue
+color13 = #1bbcdd
+# Light Magenta
+color14 = #bbe3ee
+# Light Cyan
+color15 = #87acb4
+# White
+color16 = #fee4ce
+
+background = #09141b
+foreground = #deb88d

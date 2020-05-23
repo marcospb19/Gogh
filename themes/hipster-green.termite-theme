@@ -1,0 +1,40 @@
+# Theme: Hipster Green
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #000000
+# Red
+color2 = #b6214a
+# Green
+color3 = #00a600
+# Yellow
+color4 = #bfbf00
+# Blue
+color5 = #246eb2
+# Magenta
+color6 = #b200b2
+# Cyan
+color7 = #00a6b2
+# Light gray
+color8 = #bfbfbf
+
+# Dark gray
+color9 = #666666
+# Light Red
+color10 = #e50000
+# Light Green
+color11 = #86a93e
+# Light Yellow
+color12 = #e5e500
+# Light Blue
+color13 = #0000ff
+# Light Magenta
+color14 = #e500e5
+# Light Cyan
+color15 = #00e5e5
+# White
+color16 = #e5e5e5
+
+background = #100b05
+foreground = #84c138

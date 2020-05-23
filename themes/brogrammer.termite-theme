@@ -1,0 +1,40 @@
+# Theme: Brogrammer
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #1f1f1f
+# Red
+color2 = #f81118
+# Green
+color3 = #2dc55e
+# Yellow
+color4 = #ecba0f
+# Blue
+color5 = #2a84d2
+# Magenta
+color6 = #4e5ab7
+# Cyan
+color7 = #1081d6
+# Light gray
+color8 = #d6dbe5
+
+# Dark gray
+color9 = #d6dbe5
+# Light Red
+color10 = #de352e
+# Light Green
+color11 = #1dd361
+# Light Yellow
+color12 = #f3bd09
+# Light Blue
+color13 = #1081d6
+# Light Magenta
+color14 = #5350b9
+# Light Cyan
+color15 = #0f7ddb
+# White
+color16 = #ffffff
+
+background = #131313
+foreground = #d6dbe5

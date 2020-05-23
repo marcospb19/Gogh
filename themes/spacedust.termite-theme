@@ -1,0 +1,40 @@
+# Theme: Spacedust
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #6e5346
+# Red
+color2 = #e35b00
+# Green
+color3 = #5cab96
+# Yellow
+color4 = #e3cd7b
+# Blue
+color5 = #0f548b
+# Magenta
+color6 = #e35b00
+# Cyan
+color7 = #06afc7
+# Light gray
+color8 = #f0f1ce
+
+# Dark gray
+color9 = #684c31
+# Light Red
+color10 = #ff8a3a
+# Light Green
+color11 = #aecab8
+# Light Yellow
+color12 = #ffc878
+# Light Blue
+color13 = #67a0ce
+# Light Magenta
+color14 = #ff8a3a
+# Light Cyan
+color15 = #83a7b4
+# White
+color16 = #fefff1
+
+background = #0a1e24
+foreground = #ecf0c1

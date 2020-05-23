@@ -1,0 +1,40 @@
+# Theme: Chalkboard
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #000000
+# Red
+color2 = #c37372
+# Green
+color3 = #72c373
+# Yellow
+color4 = #c2c372
+# Blue
+color5 = #7372c3
+# Magenta
+color6 = #c372c2
+# Cyan
+color7 = #72c2c3
+# Light gray
+color8 = #d9d9d9
+
+# Dark gray
+color9 = #323232
+# Light Red
+color10 = #dbaaaa
+# Light Green
+color11 = #aadbaa
+# Light Yellow
+color12 = #dadbaa
+# Light Blue
+color13 = #aaaadb
+# Light Magenta
+color14 = #dbaada
+# Light Cyan
+color15 = #aadadb
+# White
+color16 = #ffffff
+
+background = #29262f
+foreground = #d9e6f2

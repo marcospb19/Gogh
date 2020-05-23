@@ -1,0 +1,40 @@
+# Theme: Summer-Pop
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #666666
+# Red
+color2 = #FF1E8E
+# Green
+color3 = #8EFF1E
+# Yellow
+color4 = #FFFB00
+# Blue
+color5 = #1E8EFF
+# Magenta
+color6 = #E500E5
+# Cyan
+color7 = #00E5E5
+# Light gray
+color8 = #E5E5E5
+
+# Dark gray
+color9 = #666666
+# Light Red
+color10 = #FF1E8E
+# Light Green
+color11 = #8EFF1E
+# Light Yellow
+color12 = #FFFB00
+# Light Blue
+color13 = #1E8EFF
+# Light Magenta
+color14 = #E500E5
+# Light Cyan
+color15 = #00E5E5
+# White
+color16 = #E5E5E5
+
+background = #272822
+foreground = #FFFFFF

@@ -1,0 +1,40 @@
+# Theme: Wombat
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #000000
+# Red
+color2 = #ff615a
+# Green
+color3 = #b1e969
+# Yellow
+color4 = #ebd99c
+# Blue
+color5 = #5da9f6
+# Magenta
+color6 = #e86aff
+# Cyan
+color7 = #82fff7
+# Light gray
+color8 = #dedacf
+
+# Dark gray
+color9 = #313131
+# Light Red
+color10 = #f58c80
+# Light Green
+color11 = #ddf88f
+# Light Yellow
+color12 = #eee5b2
+# Light Blue
+color13 = #a5c7ff
+# Light Magenta
+color14 = #ddaaff
+# Light Cyan
+color15 = #b7fff9
+# White
+color16 = #ffffff
+
+background = #171717
+foreground = #dedacf

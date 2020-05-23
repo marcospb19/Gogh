@@ -1,0 +1,40 @@
+# Theme: Grass
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #000000
+# Red
+color2 = #bb0000
+# Green
+color3 = #00bb00
+# Yellow
+color4 = #e7b000
+# Blue
+color5 = #0000a3
+# Magenta
+color6 = #950062
+# Cyan
+color7 = #00bbbb
+# Light gray
+color8 = #bbbbbb
+
+# Dark gray
+color9 = #555555
+# Light Red
+color10 = #bb0000
+# Light Green
+color11 = #00bb00
+# Light Yellow
+color12 = #e7b000
+# Light Blue
+color13 = #0000bb
+# Light Magenta
+color14 = #ff55ff
+# Light Cyan
+color15 = #55ffff
+# White
+color16 = #ffffff
+
+background = #13773d
+foreground = #fff0a5

@@ -1,0 +1,40 @@
+# Theme: Pnevma
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #2f2e2d
+# Red
+color2 = #a36666
+# Green
+color3 = #90a57d
+# Yellow
+color4 = #d7af87
+# Blue
+color5 = #7fa5bd
+# Magenta
+color6 = #c79ec4
+# Cyan
+color7 = #8adbb4
+# Light gray
+color8 = #d0d0d0
+
+# Dark gray
+color9 = #4a4845
+# Light Red
+color10 = #d78787
+# Light Green
+color11 = #afbea2
+# Light Yellow
+color12 = #e4c9af
+# Light Blue
+color13 = #a1bdce
+# Light Magenta
+color14 = #d7beda
+# Light Cyan
+color15 = #b1e7dd
+# White
+color16 = #efefef
+
+background = #1c1c1c
+foreground = #d0d0d0

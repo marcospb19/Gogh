@@ -1,0 +1,40 @@
+# Theme: Harper
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #726e6a
+# Red
+color2 = #f8b63f
+# Green
+color3 = #7fb5e1
+# Yellow
+color4 = #d6da25
+# Blue
+color5 = #489e48
+# Magenta
+color6 = #b296c6
+# Cyan
+color7 = #f5bfd7
+# Light gray
+color8 = #a8a49d
+
+# Dark gray
+color9 = #726e6a
+# Light Red
+color10 = #f8b63f
+# Light Green
+color11 = #7fb5e1
+# Light Yellow
+color12 = #d6da25
+# Light Blue
+color13 = #489e48
+# Light Magenta
+color14 = #b296c6
+# Light Cyan
+color15 = #f5bfd7
+# White
+color16 = #fefbea
+
+background = #010101
+foreground = #a8a49d

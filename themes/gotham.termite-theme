@@ -1,0 +1,40 @@
+# Theme: Gotham
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #10151b
+# Red
+color2 = #c33027
+# Green
+color3 = #26a98b
+# Yellow
+color4 = #edb54b
+# Blue
+color5 = #195465
+# Magenta
+color6 = #4e5165
+# Cyan
+color7 = #33859d
+# Light gray
+color8 = #98d1ce
+
+# Dark gray
+color9 = #10151b
+# Light Red
+color10 = #d26939
+# Light Green
+color11 = #081f2d
+# Light Yellow
+color12 = #245361
+# Light Blue
+color13 = #093748
+# Light Magenta
+color14 = #888ba5
+# Light Cyan
+color15 = #599caa
+# White
+color16 = #d3ebe9
+
+foreground = #98d1ce
+background = #0a0f14

@@ -1,0 +1,40 @@
+# Theme: Github
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #3e3e3e
+# Red
+color2 = #970b16
+# Green
+color3 = #07962a
+# Yellow
+color4 = #f8eec7
+# Blue
+color5 = #003e8a
+# Magenta
+color6 = #e94691
+# Cyan
+color7 = #89d1ec
+# Light gray
+color8 = #ffffff
+
+# Dark gray
+color9 = #666666
+# Light Red
+color10 = #de0000
+# Light Green
+color11 = #87d5a2
+# Light Yellow
+color12 = #f1d007
+# Light Blue
+color13 = #2e6cba
+# Light Magenta
+color14 = #ffa29f
+# Light Cyan
+color15 = #1cfafe
+# White
+color16 = #ffffff
+
+background = #f4f4f4
+foreground = #3e3e3e

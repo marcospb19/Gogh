@@ -1,0 +1,40 @@
+# Theme: Elemental
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #3c3c30
+# Red
+color2 = #98290f
+# Green
+color3 = #479a43
+# Yellow
+color4 = #7f7111
+# Blue
+color5 = #497f7d
+# Magenta
+color6 = #7f4e2f
+# Cyan
+color7 = #387f58
+# Light gray
+color8 = #807974
+
+# Dark gray
+color9 = #555445
+# Light Red
+color10 = #e0502a
+# Light Green
+color11 = #61e070
+# Light Yellow
+color12 = #d69927
+# Light Blue
+color13 = #79d9d9
+# Light Magenta
+color14 = #cd7c54
+# Light Cyan
+color15 = #59d599
+# White
+color16 = #fff1e9
+
+background = #22211d
+foreground = #807a74

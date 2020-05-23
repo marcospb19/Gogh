@@ -1,0 +1,41 @@
+# Theme: Solarized Light
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #073642
+# Red
+color2 = #DC322F
+# Green
+color3 = #859900
+# Yellow
+color4 = #B58900
+# Blue
+color5 = #268BD2
+# Magenta
+color6 = #D33682
+# Cyan
+color7 = #2AA198
+# Light gray
+color8 = #EEE8D5
+
+# Dark gray
+color9 = #002B36
+# Light Red
+color10 = #CB4B16
+# Light Green
+color11 = #586E75
+# Light Yellow
+color12 = #657B83
+# Light Blue
+color13 = #839496
+# Light Magenta
+color14 = #6C71C4
+# Light Cyan
+color15 = #93A1A1
+# White
+color16 = #EEE8D5
+
+background = #FDF6E3
+foreground = #657B83
+foreground_bold = #586E75

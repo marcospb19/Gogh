@@ -1,0 +1,40 @@
+# Theme: Urple
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #000000
+# Red
+color2 = #b0425b
+# Green
+color3 = #37a415
+# Yellow
+color4 = #ad5c42
+# Blue
+color5 = #564d9b
+# Magenta
+color6 = #6c3ca1
+# Cyan
+color7 = #808080
+# Light gray
+color8 = #87799c
+
+# Dark gray
+color9 = #5d3225
+# Light Red
+color10 = #ff6388
+# Light Green
+color11 = #29e620
+# Light Yellow
+color12 = #f08161
+# Light Blue
+color13 = #867aed
+# Light Magenta
+color14 = #a05eee
+# Light Cyan
+color15 = #eaeaea
+# White
+color16 = #bfa3ff
+
+background = #1b1b23
+foreground = #877a9b

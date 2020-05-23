@@ -1,0 +1,40 @@
+# Theme: Flatland
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #1d1d19
+# Red
+color2 = #f18339
+# Green
+color3 = #9fd364
+# Yellow
+color4 = #f4ef6d
+# Blue
+color5 = #5096be
+# Magenta
+color6 = #695abc
+# Cyan
+color7 = #d63865
+# Light gray
+color8 = #ffffff
+
+# Dark gray
+color9 = #1d1d19
+# Light Red
+color10 = #d22a24
+# Light Green
+color11 = #a7d42c
+# Light Yellow
+color12 = #ff8949
+# Light Blue
+color13 = #61b9d0
+# Light Magenta
+color14 = #695abc
+# Light Cyan
+color15 = #d63865
+# White
+color16 = #ffffff
+
+background = #1d1f21
+foreground = #b8dbef

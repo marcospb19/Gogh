@@ -1,0 +1,40 @@
+# Theme: Medallion
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #000000
+# Red
+color2 = #b64c00
+# Green
+color3 = #7c8b16
+# Yellow
+color4 = #d3bd26
+# Blue
+color5 = #616bb0
+# Magenta
+color6 = #8c5a90
+# Cyan
+color7 = #916c25
+# Light gray
+color8 = #cac29a
+
+# Dark gray
+color9 = #5e5219
+# Light Red
+color10 = #ff9149
+# Light Green
+color11 = #b2ca3b
+# Light Yellow
+color12 = #ffe54a
+# Light Blue
+color13 = #acb8ff
+# Light Magenta
+color14 = #ffa0ff
+# Light Cyan
+color15 = #ffbc51
+# White
+color16 = #fed698
+
+background = #1d1908
+foreground = #cac296

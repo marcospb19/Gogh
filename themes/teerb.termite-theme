@@ -1,0 +1,40 @@
+# Theme: Teerb
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #1c1c1c
+# Red
+color2 = #d68686
+# Green
+color3 = #aed686
+# Yellow
+color4 = #d7af87
+# Blue
+color5 = #86aed6
+# Magenta
+color6 = #d6aed6
+# Cyan
+color7 = #8adbb4
+# Light gray
+color8 = #d0d0d0
+
+# Dark gray
+color9 = #1c1c1c
+# Light Red
+color10 = #d68686
+# Light Green
+color11 = #aed686
+# Light Yellow
+color12 = #e4c9af
+# Light Blue
+color13 = #86aed6
+# Light Magenta
+color14 = #d6aed6
+# Light Cyan
+color15 = #b1e7dd
+# White
+color16 = #efefef
+
+background = #262626
+foreground = #d0d0d0

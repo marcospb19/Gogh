@@ -1,0 +1,40 @@
+# Theme: Hurtado
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #575757
+# Red
+color2 = #ff1b00
+# Green
+color3 = #a5e055
+# Yellow
+color4 = #fbe74a
+# Blue
+color5 = #496487
+# Magenta
+color6 = #fd5ff1
+# Cyan
+color7 = #86e9fe
+# Light gray
+color8 = #cbcccb
+
+# Dark gray
+color9 = #262626
+# Light Red
+color10 = #d51d00
+# Light Green
+color11 = #a5df55
+# Light Yellow
+color12 = #fbe84a
+# Light Blue
+color13 = #89beff
+# Light Magenta
+color14 = #c001c1
+# Light Cyan
+color15 = #86eafe
+# White
+color16 = #dbdbdb
+
+background = #000000
+foreground = #dbdbdb

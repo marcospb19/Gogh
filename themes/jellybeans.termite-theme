@@ -1,0 +1,40 @@
+# Theme: Jellybeans
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #929292
+# Red
+color2 = #e27373
+# Green
+color3 = #94b979
+# Yellow
+color4 = #ffba7b
+# Blue
+color5 = #97bedc
+# Magenta
+color6 = #e1c0fa
+# Cyan
+color7 = #00988e
+# Light gray
+color8 = #dedede
+
+# Dark gray
+color9 = #bdbdbd
+# Light Red
+color10 = #ffa1a1
+# Light Green
+color11 = #bddeab
+# Light Yellow
+color12 = #ffdca0
+# Light Blue
+color13 = #b1d8f6
+# Light Magenta
+color14 = #fbdaff
+# Light Cyan
+color15 = #1ab2a8
+# White
+color16 = #ffffff
+
+background = #121212
+foreground = #dedede

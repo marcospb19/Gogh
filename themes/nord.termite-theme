@@ -1,0 +1,38 @@
+# Theme: Nord
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #353535
+# Red
+color2 = #E64569
+# Green
+color3 = #89D287
+# Yellow
+color4 = #DAB752
+# Blue
+color5 = #439ECF
+# Magenta
+color6 = #D961DC
+# Cyan
+color7 = #64AAAF
+# Light gray
+color8 = #B3B3B3
+
+# Dark gray
+color9 = #535353
+# Light Red
+color10 = #E4859A
+# Light Green
+color11 = #A2CCA1
+# Light Yellow
+color12 = #E1E387
+# Light Blue
+color13 = #6FBBE2
+# Light Magenta
+color14 = #E586E7
+# Light Cyan
+color15 = #96DCDA
+# White
+color16 = #DEDEDE
+

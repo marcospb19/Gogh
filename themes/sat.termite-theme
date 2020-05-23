@@ -1,0 +1,40 @@
+# Theme: Sat
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #000000
+# Red
+color2 = #dd0007
+# Green
+color3 = #07dd00
+# Yellow
+color4 = #ddd600
+# Blue
+color5 = #0007dd
+# Magenta
+color6 = #d600dd
+# Cyan
+color7 = #00ddd6
+# Light gray
+color8 = #f2f2f2
+
+# Dark gray
+color9 = #7d7d7d
+# Light Red
+color10 = #ff7478
+# Light Green
+color11 = #78ff74
+# Light Yellow
+color12 = #fffa74
+# Light Blue
+color13 = #7478ff
+# Light Magenta
+color14 = #fa74ff
+# Light Cyan
+color15 = #74fffa
+# White
+color16 = #ffffff
+
+background = #758480
+foreground = #23476a

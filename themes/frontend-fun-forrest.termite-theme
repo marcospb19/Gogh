@@ -1,0 +1,40 @@
+# Theme: Frontend Fun Forrest
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #000000
+# Red
+color2 = #d6262b
+# Green
+color3 = #919c00
+# Yellow
+color4 = #be8a13
+# Blue
+color5 = #4699a3
+# Magenta
+color6 = #8d4331
+# Cyan
+color7 = #da8213
+# Light gray
+color8 = #ddc265
+
+# Dark gray
+color9 = #7f6a55
+# Light Red
+color10 = #e55a1c
+# Light Green
+color11 = #bfc65a
+# Light Yellow
+color12 = #ffcb1b
+# Light Blue
+color13 = #7cc9cf
+# Light Magenta
+color14 = #d26349
+# Light Cyan
+color15 = #e6a96b
+# White
+color16 = #ffeaa3
+
+background = #251200
+foreground = #dec165

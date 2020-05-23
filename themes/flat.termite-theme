@@ -1,0 +1,40 @@
+# Theme: Flat
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #2c3e50
+# Red
+color2 = #c0392b
+# Green
+color3 = #27ae60
+# Yellow
+color4 = #f39c12
+# Blue
+color5 = #2980b9
+# Magenta
+color6 = #8e44ad
+# Cyan
+color7 = #16a085
+# Light gray
+color8 = #bdc3c7
+
+# Dark gray
+color9 = #34495e
+# Light Red
+color10 = #e74c3c
+# Light Green
+color11 = #2ecc71
+# Light Yellow
+color12 = #f1c40f
+# Light Blue
+color13 = #3498db
+# Light Magenta
+color14 = #9b59b6
+# Light Cyan
+color15 = #2AA198
+# White
+color16 = #ecf0f1
+
+background = #1F2D3A
+foreground = #1abc9c

@@ -1,0 +1,40 @@
+# Theme: Red Alert
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #000000
+# Red
+color2 = #d62e4e
+# Green
+color3 = #71be6b
+# Yellow
+color4 = #beb86b
+# Blue
+color5 = #489bee
+# Magenta
+color6 = #e979d7
+# Cyan
+color7 = #6bbeb8
+# Light gray
+color8 = #d6d6d6
+
+# Dark gray
+color9 = #262626
+# Light Red
+color10 = #e02553
+# Light Green
+color11 = #aff08c
+# Light Yellow
+color12 = #dfddb7
+# Light Blue
+color13 = #65aaf1
+# Light Magenta
+color14 = #ddb7df
+# Light Cyan
+color15 = #b7dfdd
+# White
+color16 = #ffffff
+
+background = #762423
+foreground = #ffffff

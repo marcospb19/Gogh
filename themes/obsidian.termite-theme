@@ -1,0 +1,40 @@
+# Theme: Obsidian
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #000000
+# Red
+color2 = #a60001
+# Green
+color3 = #00bb00
+# Yellow
+color4 = #fecd22
+# Blue
+color5 = #3a9bdb
+# Magenta
+color6 = #bb00bb
+# Cyan
+color7 = #00bbbb
+# Light gray
+color8 = #bbbbbb
+
+# Dark gray
+color9 = #555555
+# Light Red
+color10 = #ff0003
+# Light Green
+color11 = #93c863
+# Light Yellow
+color12 = #fef874
+# Light Blue
+color13 = #a1d7ff
+# Light Magenta
+color14 = #ff55ff
+# Light Cyan
+color15 = #55ffff
+# White
+color16 = #ffffff
+
+background = #283033
+foreground = #cdcdcd

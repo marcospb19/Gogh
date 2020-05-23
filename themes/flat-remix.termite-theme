@@ -1,0 +1,40 @@
+# Theme: Flat Remix
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #1F2229
+# Red
+color2 = #D41919
+# Green
+color3 = #5EBDAB
+# Yellow
+color4 = #FEA44C
+# Blue
+color5 = #367bf0
+# Magenta
+color6 = #BF2E5D
+# Cyan
+color7 = #49AEE6
+# Light gray
+color8 = #E6E6E6
+
+# Dark gray
+color9 = #8C42AB
+# Light Red
+color10 = #EC0101
+# Light Green
+color11 = #47D4B9
+# Light Yellow
+color12 = #FF8A18
+# Light Blue
+color13 = #277FFF
+# Light Magenta
+color14 = #D71655
+# Light Cyan
+color15 = #05A1F7
+# White
+color16 = #FFFFFF
+
+background = #272a34
+foreground = #FFFFFF

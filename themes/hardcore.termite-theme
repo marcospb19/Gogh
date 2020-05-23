@@ -1,0 +1,40 @@
+# Theme: Hardcore
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #1b1d1e
+# Red
+color2 = #f92672
+# Green
+color3 = #a6e22e
+# Yellow
+color4 = #fd971f
+# Blue
+color5 = #66d9ef
+# Magenta
+color6 = #9e6ffe
+# Cyan
+color7 = #5e7175
+# Light gray
+color8 = #ccccc6
+
+# Dark gray
+color9 = #505354
+# Light Red
+color10 = #ff669d
+# Light Green
+color11 = #beed5f
+# Light Yellow
+color12 = #e6db74
+# Light Blue
+color13 = #66d9ef
+# Light Magenta
+color14 = #9e6ffe
+# Light Cyan
+color15 = #a3babf
+# White
+color16 = #f8f8f2
+
+background = #121212
+foreground = #a0a0a0

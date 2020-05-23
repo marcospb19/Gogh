@@ -1,0 +1,40 @@
+# Theme: Spacegray Eighties Dull
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #15171c
+# Red
+color2 = #b24a56
+# Green
+color3 = #92b477
+# Yellow
+color4 = #c6735a
+# Blue
+color5 = #7c8fa5
+# Magenta
+color6 = #a5789e
+# Cyan
+color7 = #80cdcb
+# Light gray
+color8 = #b3b8c3
+
+# Dark gray
+color9 = #555555
+# Light Red
+color10 = #ec5f67
+# Light Green
+color11 = #89e986
+# Light Yellow
+color12 = #fec254
+# Light Blue
+color13 = #5486c0
+# Light Magenta
+color14 = #bf83c1
+# Light Cyan
+color15 = #58c2c1
+# White
+color16 = #ffffff
+
+background = #222222
+foreground = #c9c6bc

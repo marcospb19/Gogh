@@ -1,0 +1,40 @@
+# Theme: Kibble
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #4d4d4d
+# Red
+color2 = #c70031
+# Green
+color3 = #29cf13
+# Yellow
+color4 = #d8e30e
+# Blue
+color5 = #3449d1
+# Magenta
+color6 = #8400ff
+# Cyan
+color7 = #0798ab
+# Light gray
+color8 = #e2d1e3
+
+# Dark gray
+color9 = #5a5a5a
+# Light Red
+color10 = #f01578
+# Light Green
+color11 = #6ce05c
+# Light Yellow
+color12 = #f3f79e
+# Light Blue
+color13 = #97a4f7
+# Light Magenta
+color14 = #c495f0
+# Light Cyan
+color15 = #68f2e0
+# White
+color16 = #ffffff
+
+background = #0e100a
+foreground = #f7f7f7

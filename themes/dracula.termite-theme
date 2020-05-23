@@ -1,0 +1,40 @@
+# Theme: Dracula
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #44475a
+# Red
+color2 = #ff5555
+# Green
+color3 = #50fa7b
+# Yellow
+color4 = #ffb86c
+# Blue
+color5 = #8be9fd
+# Magenta
+color6 = #bd93f9
+# Cyan
+color7 = #ff79c6
+# Light gray
+color8 = #94A3A5
+
+# Dark gray
+color9 = #000000
+# Light Red
+color10 = #ff5555
+# Light Green
+color11 = #50fa7b
+# Light Yellow
+color12 = #ffb86c
+# Light Blue
+color13 = #8be9fd
+# Light Magenta
+color14 = #bd93f9
+# Light Cyan
+color15 = #ff79c6
+# White
+color16 = #ffffff
+
+background = #282a36
+foreground = #94A3A5

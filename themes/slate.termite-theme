@@ -1,0 +1,40 @@
+# Theme: Slate
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #ffffff
+# Red
+color2 = #e2a8bf
+# Green
+color3 = #81d778
+# Yellow
+color4 = #c4c9c0
+# Blue
+color5 = #264b49
+# Magenta
+color6 = #a481d3
+# Cyan
+color7 = #15ab9c
+# Light gray
+color8 = #02c5e0
+
+# Dark gray
+color9 = #ffffff
+# Light Red
+color10 = #ffcdd9
+# Light Green
+color11 = #beffa8
+# Light Yellow
+color12 = #d0ccca
+# Light Blue
+color13 = #7ab0d2
+# Light Magenta
+color14 = #c5a7d9
+# Light Cyan
+color15 = #8cdfe0
+# White
+color16 = #e0e0e0
+
+background = #222222
+foreground = #35b1d2

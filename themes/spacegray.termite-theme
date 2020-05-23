@@ -1,0 +1,40 @@
+# Theme: Spacegray
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #000000
+# Red
+color2 = #b04b57
+# Green
+color3 = #87b379
+# Yellow
+color4 = #e5c179
+# Blue
+color5 = #7d8fa4
+# Magenta
+color6 = #a47996
+# Cyan
+color7 = #85a7a5
+# Light gray
+color8 = #b3b8c3
+
+# Dark gray
+color9 = #000000
+# Light Red
+color10 = #b04b57
+# Light Green
+color11 = #87b379
+# Light Yellow
+color12 = #e5c179
+# Light Blue
+color13 = #7d8fa4
+# Light Magenta
+color14 = #a47996
+# Light Cyan
+color15 = #85a7a5
+# White
+color16 = #ffffff
+
+background = #20242d
+foreground = #b3b8c3

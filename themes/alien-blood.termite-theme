@@ -1,0 +1,40 @@
+# Theme: Alien Blood
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #112616
+# Red
+color2 = #7f2b27
+# Green
+color3 = #2f7e25
+# Yellow
+color4 = #717f24
+# Blue
+color5 = #2f6a7f
+# Magenta
+color6 = #47587f
+# Cyan
+color7 = #327f77
+# Light gray
+color8 = #647d75
+
+# Dark gray
+color9 = #3c4812
+# Light Red
+color10 = #e08009
+# Light Green
+color11 = #18e000
+# Light Yellow
+color12 = #bde000
+# Light Blue
+color13 = #00aae0
+# Light Magenta
+color14 = #0058e0
+# Light Cyan
+color15 = #00e0c4
+# White
+color16 = #73fa91
+
+background = #0f1610
+foreground = #637d75

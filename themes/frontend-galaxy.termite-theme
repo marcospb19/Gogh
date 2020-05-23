@@ -1,0 +1,40 @@
+# Theme: Frontend Galaxy
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #000000
+# Red
+color2 = #f9555f
+# Green
+color3 = #21b089
+# Yellow
+color4 = #fef02a
+# Blue
+color5 = #589df6
+# Magenta
+color6 = #944d95
+# Cyan
+color7 = #1f9ee7
+# Light gray
+color8 = #bbbbbb
+
+# Dark gray
+color9 = #555555
+# Light Red
+color10 = #fa8c8f
+# Light Green
+color11 = #35bb9a
+# Light Yellow
+color12 = #ffff55
+# Light Blue
+color13 = #589df6
+# Light Magenta
+color14 = #e75699
+# Light Cyan
+color15 = #3979bc
+# White
+color16 = #ffffff
+
+background = #1d2837
+foreground = #ffffff

@@ -1,0 +1,41 @@
+# Theme: One Light
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #000000
+# Red
+color2 = #DA3E39
+# Green
+color3 = #41933E
+# Yellow
+color4 = #855504
+# Blue
+color5 = #315EEE
+# Magenta
+color6 = #930092
+# Cyan
+color7 = #0E6FAD
+# Light gray
+color8 = #8E8F96
+
+# Dark gray
+color9 = #2A2B32
+# Light Red
+color10 = #DA3E39
+# Light Green
+color11 = #41933E
+# Light Yellow
+color12 = #855504
+# Light Blue
+color13 = #315EEE
+# Light Magenta
+color14 = #930092
+# Light Cyan
+color15 = #0E6FAD
+# White
+color16 = #FFFEFE
+
+background = #F8F8F8
+foreground = #2A2B32
+cursor = #2A2B32

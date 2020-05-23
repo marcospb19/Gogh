@@ -1,0 +1,40 @@
+# Theme: _Bash
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #959DCB
+# Red
+color2 = #F07178
+# Green
+color3 = #C3E88D
+# Yellow
+color4 = #FFCB6B
+# Blue
+color5 = #82AAFF
+# Magenta
+color6 = #C792EA
+# Cyan
+color7 = #60ADEC
+# Light gray
+color8 = #ABB2BF
+
+# Dark gray
+color9 = #959DCB
+# Light Red
+color10 = #F07178
+# Light Green
+color11 = #C3E88D
+# Light Yellow
+color12 = #FF5572
+# Light Blue
+color13 = #82AAFF
+# Light Magenta
+color14 = #FFCB6B
+# Light Cyan
+color15 = #676E95
+# White
+color16 = #FFFEFE
+
+background = #292D3E
+foreground = #BFC7D5

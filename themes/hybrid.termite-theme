@@ -1,0 +1,40 @@
+# Theme: Hybrid
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #282a2e
+# Red
+color2 = #A54242
+# Green
+color3 = #8C9440
+# Yellow
+color4 = #de935f
+# Blue
+color5 = #5F819D
+# Magenta
+color6 = #85678F
+# Cyan
+color7 = #5E8D87
+# Light gray
+color8 = #969896
+
+# Dark gray
+color9 = #373b41
+# Light Red
+color10 = #cc6666
+# Light Green
+color11 = #b5bd68
+# Light Yellow
+color12 = #f0c674
+# Light Blue
+color13 = #81a2be
+# Light Magenta
+color14 = #b294bb
+# Light Cyan
+color15 = #8abeb7
+# White
+color16 = #c5c8c6
+
+background = #141414
+foreground = #94a3a5

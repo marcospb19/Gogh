@@ -1,0 +1,40 @@
+# Theme: Smyck
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #000000
+# Red
+color2 = #C75646
+# Green
+color3 = #8EB33B
+# Yellow
+color4 = #D0B03C
+# Blue
+color5 = #72B3CC
+# Magenta
+color6 = #C8A0D1
+# Cyan
+color7 = #218693
+# Light gray
+color8 = #B0B0B0
+
+# Dark gray
+color9 = #5D5D5D
+# Light Red
+color10 = #E09690
+# Light Green
+color11 = #CDEE69
+# Light Yellow
+color12 = #FFE377
+# Light Blue
+color13 = #9CD9F0
+# Light Magenta
+color14 = #FBB1F9
+# Light Cyan
+color15 = #77DFD8
+# White
+color16 = #F7F7F7
+
+background = #242424
+foreground = #F7F7F7

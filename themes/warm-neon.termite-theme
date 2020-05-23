@@ -1,0 +1,40 @@
+# Theme: Warm Neon
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #000000
+# Red
+color2 = #e24346
+# Green
+color3 = #39b13a
+# Yellow
+color4 = #dae145
+# Blue
+color5 = #4261c5
+# Magenta
+color6 = #f920fb
+# Cyan
+color7 = #2abbd4
+# Light gray
+color8 = #d0b8a3
+
+# Dark gray
+color9 = #fefcfc
+# Light Red
+color10 = #e97071
+# Light Green
+color11 = #9cc090
+# Light Yellow
+color12 = #ddda7a
+# Light Blue
+color13 = #7b91d6
+# Light Magenta
+color14 = #f674ba
+# Light Cyan
+color15 = #5ed1e5
+# White
+color16 = #d8c8bb
+
+background = #404040
+foreground = #afdab6

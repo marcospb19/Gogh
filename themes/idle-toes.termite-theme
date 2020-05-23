@@ -1,0 +1,40 @@
+# Theme: Idle Toes
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #535353
+# Red
+color2 = #d25252
+# Green
+color3 = #7fe173
+# Yellow
+color4 = #ffc66d
+# Blue
+color5 = #4099ff
+# Magenta
+color6 = #f680ff
+# Cyan
+color7 = #bed6ff
+# Light gray
+color8 = #eeeeec
+
+# Dark gray
+color9 = #535353
+# Light Red
+color10 = #f07070
+# Light Green
+color11 = #9dff91
+# Light Yellow
+color12 = #ffe48b
+# Light Blue
+color13 = #5eb7f7
+# Light Magenta
+color14 = #ff9dff
+# Light Cyan
+color15 = #dcf4ff
+# White
+color16 = #ffffff
+
+background = #323232
+foreground = #ffffff

@@ -1,0 +1,41 @@
+# Theme: Snazzy
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #686868
+# Red
+color2 = #FF5C57
+# Green
+color3 = #5AF78E
+# Yellow
+color4 = #F3F99D
+# Blue
+color5 = #57C7FF
+# Magenta
+color6 = #FF6AC1
+# Cyan
+color7 = #9AEDFE
+# Light gray
+color8 = #F1F1F0
+
+# Dark gray
+color9 = #686868
+# Light Red
+color10 = #FF5C57
+# Light Green
+color11 = #5AF78E
+# Light Yellow
+color12 = #F3F99D
+# Light Blue
+color13 = #57C7FF
+# Light Magenta
+color14 = #FF6AC1
+# Light Cyan
+color15 = #9AEDFE
+# White
+color16 = #EFF0EB
+
+background = #282A36
+foreground = #EFF0EB
+cursor = #97979B

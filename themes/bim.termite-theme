@@ -1,0 +1,40 @@
+# Theme: Bim
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #2c2423
+# Red
+color2 = #f557a0
+# Green
+color3 = #a9ee55
+# Yellow
+color4 = #f5a255
+# Blue
+color5 = #5ea2ec
+# Magenta
+color6 = #a957ec
+# Cyan
+color7 = #5eeea0
+# Light gray
+color8 = #918988
+
+# Dark gray
+color9 = #918988
+# Light Red
+color10 = #f579b2
+# Light Green
+color11 = #bbee78
+# Light Yellow
+color12 = #f5b378
+# Light Blue
+color13 = #81b3ec
+# Light Magenta
+color14 = #bb79ec
+# Light Cyan
+color15 = #81eeb2
+# White
+color16 = #f5eeec
+
+background = #012849
+foreground = #a9bed8

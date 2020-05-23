@@ -1,0 +1,40 @@
+# Theme: Wez
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #555555
+# Red
+color2 = #cc5555
+# Green
+color3 = #55cc55
+# Yellow
+color4 = #cdcd55
+# Blue
+color5 = #5555cc
+# Magenta
+color6 = #cc55cc
+# Cyan
+color7 = #7acaca
+# Light gray
+color8 = #cccccc
+
+# Dark gray
+color9 = #555555
+# Light Red
+color10 = #ff5555
+# Light Green
+color11 = #55ff55
+# Light Yellow
+color12 = #ffff55
+# Light Blue
+color13 = #5555ff
+# Light Magenta
+color14 = #ff55ff
+# Light Cyan
+color15 = #55ffff
+# White
+color16 = #ffffff
+
+background = #000000
+foreground = #b3b3b3

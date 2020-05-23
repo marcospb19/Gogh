@@ -1,0 +1,40 @@
+# Theme: Toy Chest
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #2c3f58
+# Red
+color2 = #be2d26
+# Green
+color3 = #1a9172
+# Yellow
+color4 = #db8e27
+# Blue
+color5 = #325d96
+# Magenta
+color6 = #8a5edc
+# Cyan
+color7 = #35a08f
+# Light gray
+color8 = #23d183
+
+# Dark gray
+color9 = #336889
+# Light Red
+color10 = #dd5944
+# Light Green
+color11 = #31d07b
+# Light Yellow
+color12 = #e7d84b
+# Light Blue
+color13 = #34a6da
+# Light Magenta
+color14 = #ae6bdc
+# Light Cyan
+color15 = #42c3ae
+# White
+color16 = #d5d5d5
+
+background = #24364b
+foreground = #31d07b

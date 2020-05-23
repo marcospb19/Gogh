@@ -1,0 +1,40 @@
+# Theme: N0Tch2K
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #383838
+# Red
+color2 = #a95551
+# Green
+color3 = #666666
+# Yellow
+color4 = #a98051
+# Blue
+color5 = #657d3e
+# Magenta
+color6 = #767676
+# Cyan
+color7 = #c9c9c9
+# Light gray
+color8 = #d0b8a3
+
+# Dark gray
+color9 = #474747
+# Light Red
+color10 = #a97775
+# Light Green
+color11 = #8c8c8c
+# Light Yellow
+color12 = #a99175
+# Light Blue
+color13 = #98bd5e
+# Light Magenta
+color14 = #a3a3a3
+# Light Cyan
+color15 = #dcdcdc
+# White
+color16 = #d8c8bb
+
+background = #222222
+foreground = #a0a0a0

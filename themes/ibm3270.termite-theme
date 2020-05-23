@@ -1,0 +1,40 @@
+# Theme: Ibm3270
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #222222
+# Red
+color2 = #F01818
+# Green
+color3 = #24D830
+# Yellow
+color4 = #F0D824
+# Blue
+color5 = #7890F0
+# Magenta
+color6 = #F078D8
+# Cyan
+color7 = #54E4E4
+# Light gray
+color8 = #A5A5A5
+
+# Dark gray
+color9 = #888888
+# Light Red
+color10 = #EF8383
+# Light Green
+color11 = #7ED684
+# Light Yellow
+color12 = #EFE28B
+# Light Blue
+color13 = #B3BFEF
+# Light Magenta
+color14 = #EFB3E3
+# Light Cyan
+color15 = #9CE2E2
+# White
+color16 = #FFFFFF
+
+background = #000000
+foreground = #FDFDFD

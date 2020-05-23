@@ -1,0 +1,40 @@
+# Theme: Srcery
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #1C1B19
+# Red
+color2 = #FF3128
+# Green
+color3 = #519F50
+# Yellow
+color4 = #FBB829
+# Blue
+color5 = #5573A3
+# Magenta
+color6 = #E02C6D
+# Cyan
+color7 = #0AAEB3
+# Light gray
+color8 = #918175
+
+# Dark gray
+color9 = #2D2B28
+# Light Red
+color10 = #F75341
+# Light Green
+color11 = #98BC37
+# Light Yellow
+color12 = #FED06E
+# Light Blue
+color13 = #8EB2F7
+# Light Magenta
+color14 = #E35682
+# Light Cyan
+color15 = #53FDE9
+# White
+color16 = #FCE8C3
+
+background = #282828
+foreground = #ebdbb2

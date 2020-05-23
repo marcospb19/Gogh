@@ -1,0 +1,40 @@
+# Theme: Cobalt Neon
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #142631
+# Red
+color2 = #ff2320
+# Green
+color3 = #3ba5ff
+# Yellow
+color4 = #e9e75c
+# Blue
+color5 = #8ff586
+# Magenta
+color6 = #781aa0
+# Cyan
+color7 = #8ff586
+# Light gray
+color8 = #ba46b2
+
+# Dark gray
+color9 = #fff688
+# Light Red
+color10 = #d4312e
+# Light Green
+color11 = #8ff586
+# Light Yellow
+color12 = #e9f06d
+# Light Blue
+color13 = #3c7dd2
+# Light Magenta
+color14 = #8230a7
+# Light Cyan
+color15 = #6cbc67
+# White
+color16 = #8ff586
+
+background = #142838
+foreground = #8ff586

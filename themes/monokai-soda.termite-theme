@@ -1,0 +1,40 @@
+# Theme: Monokai Soda
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #625e4c
+# Red
+color2 = #f4005f
+# Green
+color3 = #98e024
+# Yellow
+color4 = #fa8419
+# Blue
+color5 = #9d65ff
+# Magenta
+color6 = #f4005f
+# Cyan
+color7 = #58d1eb
+# Light gray
+color8 = #c4c5b5
+
+# Dark gray
+color9 = #625e4c
+# Light Red
+color10 = #f4005f
+# Light Green
+color11 = #98e024
+# Light Yellow
+color12 = #e0d561
+# Light Blue
+color13 = #9d65ff
+# Light Magenta
+color14 = #f4005f
+# Light Cyan
+color15 = #58d1eb
+# White
+color16 = #f6f6ef
+
+background = #1a1a1a
+foreground = #c4c5b5

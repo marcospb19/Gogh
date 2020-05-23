@@ -1,0 +1,40 @@
+# Theme: Monokai Dark
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #75715e
+# Red
+color2 = #f92672
+# Green
+color3 = #a6e22e
+# Yellow
+color4 = #f4bf75
+# Blue
+color5 = #66d9ef
+# Magenta
+color6 = #ae81ff
+# Cyan
+color7 = #2AA198
+# Light gray
+color8 = #f9f8f5
+
+# Dark gray
+color9 = #75715e
+# Light Red
+color10 = #f92672
+# Light Green
+color11 = #a6e22e
+# Light Yellow
+color12 = #f4bf75
+# Light Blue
+color13 = #66d9ef
+# Light Magenta
+color14 = #ae81ff
+# Light Cyan
+color15 = #2AA198
+# White
+color16 = #f8f8f2
+
+background = #272822
+foreground = #f8f8f2

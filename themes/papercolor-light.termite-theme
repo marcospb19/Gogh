@@ -1,0 +1,40 @@
+# Theme: Papercolor Light
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #BCBCBC
+# Red
+color2 = #AF0000
+# Green
+color3 = #008700
+# Yellow
+color4 = #5F8700
+# Blue
+color5 = #0087AF
+# Magenta
+color6 = #878787
+# Cyan
+color7 = #005F87
+# Light gray
+color8 = #444444
+
+# Dark gray
+color9 = #BCBCBC
+# Light Red
+color10 = #D70000
+# Light Green
+color11 = #D70087
+# Light Yellow
+color12 = #8700AF
+# Light Blue
+color13 = #D75F00
+# Light Magenta
+color14 = #D75F00
+# Light Cyan
+color15 = #005FAF
+# White
+color16 = #005F87
+
+background = #EEEEEE
+foreground = #444444

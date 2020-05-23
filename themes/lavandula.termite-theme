@@ -1,0 +1,40 @@
+# Theme: Lavandula
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #230046
+# Red
+color2 = #7d1625
+# Green
+color3 = #337e6f
+# Yellow
+color4 = #7f6f49
+# Blue
+color5 = #4f4a7f
+# Magenta
+color6 = #5a3f7f
+# Cyan
+color7 = #58777f
+# Light gray
+color8 = #736e7d
+
+# Dark gray
+color9 = #372d46
+# Light Red
+color10 = #e05167
+# Light Green
+color11 = #52e0c4
+# Light Yellow
+color12 = #e0c386
+# Light Blue
+color13 = #8e87e0
+# Light Magenta
+color14 = #a776e0
+# Light Cyan
+color15 = #9ad4e0
+# White
+color16 = #8c91fa
+
+background = #050014
+foreground = #736e7d

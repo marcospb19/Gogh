@@ -1,0 +1,40 @@
+# Theme: Chalk
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #646464
+# Red
+color2 = #F58E8E
+# Green
+color3 = #A9D3AB
+# Yellow
+color4 = #FED37E
+# Blue
+color5 = #7AABD4
+# Magenta
+color6 = #D6ADD5
+# Cyan
+color7 = #79D4D5
+# Light gray
+color8 = #D4D4D4
+
+# Dark gray
+color9 = #646464
+# Light Red
+color10 = #F58E8E
+# Light Green
+color11 = #A9D3AB
+# Light Yellow
+color12 = #FED37E
+# Light Blue
+color13 = #7AABD4
+# Light Magenta
+color14 = #D6ADD5
+# Light Cyan
+color15 = #79D4D5
+# White
+color16 = #D4D4D4
+
+background = #2D2D2D
+foreground = #D4D4D4

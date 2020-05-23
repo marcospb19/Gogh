@@ -1,0 +1,40 @@
+# Theme: Birds Of Paradise
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #573d26
+# Red
+color2 = #be2d26
+# Green
+color3 = #6ba18a
+# Yellow
+color4 = #e99d2a
+# Blue
+color5 = #5a86ad
+# Magenta
+color6 = #ac80a6
+# Cyan
+color7 = #74a6ad
+# Light gray
+color8 = #e0dbb7
+
+# Dark gray
+color9 = #9b6c4a
+# Light Red
+color10 = #e84627
+# Light Green
+color11 = #95d8ba
+# Light Yellow
+color12 = #d0d150
+# Light Blue
+color13 = #b8d3ed
+# Light Magenta
+color14 = #d19ecb
+# Light Cyan
+color15 = #93cfd7
+# White
+color16 = #fff9d5
+
+background = #2a1f1d
+foreground = #e0dbb7

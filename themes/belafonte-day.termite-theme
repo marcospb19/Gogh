@@ -1,0 +1,40 @@
+# Theme: Belafonte Day
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #20111b
+# Red
+color2 = #be100e
+# Green
+color3 = #858162
+# Yellow
+color4 = #eaa549
+# Blue
+color5 = #426a79
+# Magenta
+color6 = #97522c
+# Cyan
+color7 = #989a9c
+# Light gray
+color8 = #968c83
+
+# Dark gray
+color9 = #5e5252
+# Light Red
+color10 = #be100e
+# Light Green
+color11 = #858162
+# Light Yellow
+color12 = #eaa549
+# Light Blue
+color13 = #426a79
+# Light Magenta
+color14 = #97522c
+# Light Cyan
+color15 = #989a9c
+# White
+color16 = #968c83
+
+background = #d5ccba
+foreground = #45373c

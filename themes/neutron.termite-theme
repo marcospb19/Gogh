@@ -1,0 +1,40 @@
+# Theme: Neutron
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #23252b
+# Red
+color2 = #b54036
+# Green
+color3 = #5ab977
+# Yellow
+color4 = #deb566
+# Blue
+color5 = #6a7c93
+# Magenta
+color6 = #a4799d
+# Cyan
+color7 = #3f94a8
+# Light gray
+color8 = #e6e8ef
+
+# Dark gray
+color9 = #23252b
+# Light Red
+color10 = #b54036
+# Light Green
+color11 = #5ab977
+# Light Yellow
+color12 = #deb566
+# Light Blue
+color13 = #6a7c93
+# Light Magenta
+color14 = #a4799d
+# Light Cyan
+color15 = #3f94a8
+# White
+color16 = #ebedf2
+
+background = #1c1e22
+foreground = #e6e8ef

@@ -1,0 +1,40 @@
+# Theme: Shaman
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #012026
+# Red
+color2 = #b2302d
+# Green
+color3 = #00a941
+# Yellow
+color4 = #5e8baa
+# Blue
+color5 = #449a86
+# Magenta
+color6 = #00599d
+# Cyan
+color7 = #5d7e19
+# Light gray
+color8 = #405555
+
+# Dark gray
+color9 = #384451
+# Light Red
+color10 = #ff4242
+# Light Green
+color11 = #2aea5e
+# Light Yellow
+color12 = #8ed4fd
+# Light Blue
+color13 = #61d5ba
+# Light Magenta
+color14 = #1298ff
+# Light Cyan
+color15 = #98d028
+# White
+color16 = #58fbd6
+
+background = #001015
+foreground = #405555

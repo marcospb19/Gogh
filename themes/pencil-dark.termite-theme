@@ -1,0 +1,40 @@
+# Theme: Pencil Dark
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #424242
+# Red
+color2 = #c30771
+# Green
+color3 = #10a778
+# Yellow
+color4 = #a89c14
+# Blue
+color5 = #008ec4
+# Magenta
+color6 = #523c79
+# Cyan
+color7 = #20a5ba
+# Light gray
+color8 = #d9d9d9
+
+# Dark gray
+color9 = #424242
+# Light Red
+color10 = #fb007a
+# Light Green
+color11 = #5fd7af
+# Light Yellow
+color12 = #f3e430
+# Light Blue
+color13 = #20bbfc
+# Light Magenta
+color14 = #6855de
+# Light Cyan
+color15 = #4fb8cc
+# White
+color16 = #f1f1f1
+
+background = #212121
+foreground = #f1f1f1

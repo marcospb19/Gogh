@@ -1,0 +1,40 @@
+# Theme: Royal
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #241f2b
+# Red
+color2 = #91284c
+# Green
+color3 = #23801c
+# Yellow
+color4 = #b49d27
+# Blue
+color5 = #6580b0
+# Magenta
+color6 = #674d96
+# Cyan
+color7 = #8aaabe
+# Light gray
+color8 = #524966
+
+# Dark gray
+color9 = #312d3d
+# Light Red
+color10 = #d5356c
+# Light Green
+color11 = #2cd946
+# Light Yellow
+color12 = #fde83b
+# Light Blue
+color13 = #90baf9
+# Light Magenta
+color14 = #a479e3
+# Light Cyan
+color15 = #acd4eb
+# White
+color16 = #9e8cbd
+
+background = #100815
+foreground = #514968

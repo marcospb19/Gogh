@@ -1,0 +1,41 @@
+# Theme: Synthwave
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #011627
+# Red
+color2 = #fe4450
+# Green
+color3 = #72f1b8
+# Yellow
+color4 = #fede5d
+# Blue
+color5 = #03edf9
+# Magenta
+color6 = #ff7edb
+# Cyan
+color7 = #03edf9
+# Light gray
+color8 = #ffffff
+
+# Dark gray
+color9 = #575656
+# Light Red
+color10 = #fe4450
+# Light Green
+color11 = #72f1b8
+# Light Yellow
+color12 = #fede5d
+# Light Blue
+color13 = #03edf9
+# Light Magenta
+color14 = #ff7edb
+# Light Cyan
+color15 = #03edf9
+# White
+color16 = #ffffff
+
+background = #262335
+foreground = #ffffff
+cursor = #03edf9

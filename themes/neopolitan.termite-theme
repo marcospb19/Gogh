@@ -1,0 +1,40 @@
+# Theme: Neopolitan
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #000000
+# Red
+color2 = #800000
+# Green
+color3 = #61ce3c
+# Yellow
+color4 = #fbde2d
+# Blue
+color5 = #253b76
+# Magenta
+color6 = #ff0080
+# Cyan
+color7 = #8da6ce
+# Light gray
+color8 = #f8f8f8
+
+# Dark gray
+color9 = #000000
+# Light Red
+color10 = #800000
+# Light Green
+color11 = #61ce3c
+# Light Yellow
+color12 = #fbde2d
+# Light Blue
+color13 = #253b76
+# Light Magenta
+color14 = #ff0080
+# Light Cyan
+color15 = #8da6ce
+# White
+color16 = #f8f8f8
+
+background = #271f19
+foreground = #ffffff

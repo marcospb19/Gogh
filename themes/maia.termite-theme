@@ -1,0 +1,40 @@
+# Theme: Maia
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #232423
+# Red
+color2 = #BA2922
+# Green
+color3 = #7E807E
+# Yellow
+color4 = #4C4F4D
+# Blue
+color5 = #16A085
+# Magenta
+color6 = #43746A
+# Cyan
+color7 = #00CCCC
+# Light gray
+color8 = #E0E0E0
+
+# Dark gray
+color9 = #282928
+# Light Red
+color10 = #CC372C
+# Light Green
+color11 = #8D8F8D
+# Light Yellow
+color12 = #4E524F
+# Light Blue
+color13 = #13BF9D
+# Light Magenta
+color14 = #487D72
+# Light Cyan
+color15 = #00D1D1
+# White
+color16 = #E8E8E8
+
+background = #31363B
+foreground = #BDC3C7

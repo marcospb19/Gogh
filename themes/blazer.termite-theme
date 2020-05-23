@@ -1,0 +1,40 @@
+# Theme: Blazer
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #000000
+# Red
+color2 = #b87a7a
+# Green
+color3 = #7ab87a
+# Yellow
+color4 = #b8b87a
+# Blue
+color5 = #7a7ab8
+# Magenta
+color6 = #b87ab8
+# Cyan
+color7 = #7ab8b8
+# Light gray
+color8 = #d9d9d9
+
+# Dark gray
+color9 = #262626
+# Light Red
+color10 = #dbbdbd
+# Light Green
+color11 = #bddbbd
+# Light Yellow
+color12 = #dbdbbd
+# Light Blue
+color13 = #bdbddb
+# Light Magenta
+color14 = #dbbddb
+# Light Cyan
+color15 = #bddbdb
+# White
+color16 = #ffffff
+
+background = #0d1926
+foreground = #d9e6f2

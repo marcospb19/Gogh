@@ -1,0 +1,40 @@
+# Theme: Argonaut
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #232323
+# Red
+color2 = #ff000f
+# Green
+color3 = #8ce10b
+# Yellow
+color4 = #ffb900
+# Blue
+color5 = #008df8
+# Magenta
+color6 = #6d43a6
+# Cyan
+color7 = #00d8eb
+# Light gray
+color8 = #ffffff
+
+# Dark gray
+color9 = #444444
+# Light Red
+color10 = #ff2740
+# Light Green
+color11 = #abe15b
+# Light Yellow
+color12 = #ffd242
+# Light Blue
+color13 = #0092ff
+# Light Magenta
+color14 = #9a5feb
+# Light Cyan
+color15 = #67fff0
+# White
+color16 = #ffffff
+
+background = #0e1019
+foreground = #fffaf4

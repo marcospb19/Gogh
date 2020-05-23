@@ -1,0 +1,40 @@
+# Theme: Dark Pastel
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #555555
+# Red
+color2 = #ff5555
+# Green
+color3 = #55ff55
+# Yellow
+color4 = #ffff55
+# Blue
+color5 = #5555ff
+# Magenta
+color6 = #ff55ff
+# Cyan
+color7 = #55ffff
+# Light gray
+color8 = #bbbbbb
+
+# Dark gray
+color9 = #555555
+# Light Red
+color10 = #ff5555
+# Light Green
+color11 = #55ff55
+# Light Yellow
+color12 = #ffff55
+# Light Blue
+color13 = #5555ff
+# Light Magenta
+color14 = #ff55ff
+# Light Cyan
+color15 = #55ffff
+# White
+color16 = #ffffff
+
+background = #000000
+foreground = #ffffff

@@ -1,0 +1,40 @@
+# Theme: Mono-White
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #3B3B3B
+# Red
+color2 = #FAFAFA
+# Green
+color3 = #FAFAFA
+# Yellow
+color4 = #FAFAFA
+# Blue
+color5 = #FAFAFA
+# Magenta
+color6 = #FAFAFA
+# Cyan
+color7 = #FAFAFA
+# Light gray
+color8 = #FAFAFA
+
+# Dark gray
+color9 = #FAFAFA
+# Light Red
+color10 = #FAFAFA
+# Light Green
+color11 = #FAFAFA
+# Light Yellow
+color12 = #FAFAFA
+# Light Blue
+color13 = #FAFAFA
+# Light Magenta
+color14 = #FAFAFA
+# Light Cyan
+color15 = #FAFAFA
+# White
+color16 = #FAFAFA
+
+background = #262626
+foreground = #FAFAFA

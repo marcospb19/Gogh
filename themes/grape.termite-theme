@@ -1,0 +1,40 @@
+# Theme: Grape
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #2d283f
+# Red
+color2 = #ed2261
+# Green
+color3 = #1fa91b
+# Yellow
+color4 = #8ddc20
+# Blue
+color5 = #487df4
+# Magenta
+color6 = #8d35c9
+# Cyan
+color7 = #3bdeed
+# Light gray
+color8 = #9e9ea0
+
+# Dark gray
+color9 = #59516a
+# Light Red
+color10 = #f0729a
+# Light Green
+color11 = #53aa5e
+# Light Yellow
+color12 = #b2dc87
+# Light Blue
+color13 = #a9bcec
+# Light Magenta
+color14 = #ad81c2
+# Light Cyan
+color15 = #9de3eb
+# White
+color16 = #a288f7
+
+background = #171423
+foreground = #9f9fa1

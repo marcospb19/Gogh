@@ -1,0 +1,40 @@
+# Theme: Borland
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #4f4f4f
+# Red
+color2 = #ff6c60
+# Green
+color3 = #a8ff60
+# Yellow
+color4 = #ffffb6
+# Blue
+color5 = #96cbfe
+# Magenta
+color6 = #ff73fd
+# Cyan
+color7 = #c6c5fe
+# Light gray
+color8 = #eeeeee
+
+# Dark gray
+color9 = #7c7c7c
+# Light Red
+color10 = #ffb6b0
+# Light Green
+color11 = #ceffac
+# Light Yellow
+color12 = #ffffcc
+# Light Blue
+color13 = #b5dcff
+# Light Magenta
+color14 = #ff9cfe
+# Light Cyan
+color15 = #dfdffe
+# White
+color16 = #ffffff
+
+background = #0000a4
+foreground = #ffff4e

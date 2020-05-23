@@ -1,0 +1,40 @@
+# Theme: Ollie
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #000000
+# Red
+color2 = #ac2e31
+# Green
+color3 = #31ac61
+# Yellow
+color4 = #ac4300
+# Blue
+color5 = #2d57ac
+# Magenta
+color6 = #b08528
+# Cyan
+color7 = #1fa6ac
+# Light gray
+color8 = #8a8eac
+
+# Dark gray
+color9 = #5b3725
+# Light Red
+color10 = #ff3d48
+# Light Green
+color11 = #3bff99
+# Light Yellow
+color12 = #ff5e1e
+# Light Blue
+color13 = #4488ff
+# Light Magenta
+color14 = #ffc21d
+# Light Cyan
+color15 = #1ffaff
+# White
+color16 = #5b6ea7
+
+background = #222125
+foreground = #8a8dae

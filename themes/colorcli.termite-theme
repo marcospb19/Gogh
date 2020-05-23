@@ -1,0 +1,41 @@
+# Theme: Colorcli
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #000000
+# Red
+color2 = #D70000
+# Green
+color3 = #5FAF00
+# Yellow
+color4 = #5FAF00
+# Blue
+color5 = #005F87
+# Magenta
+color6 = #D70000
+# Cyan
+color7 = #5F5F5F
+# Light gray
+color8 = #E4E4E4
+
+# Dark gray
+color9 = #5F5F5F
+# Light Red
+color10 = #D70000
+# Light Green
+color11 = #5F5F5F
+# Light Yellow
+color12 = #FFFF00
+# Light Blue
+color13 = #0087AF
+# Light Magenta
+color14 = #0087AF
+# Light Cyan
+color15 = #0087AF
+# White
+color16 = #E4E4E4
+
+background = #FFFFFF
+foreground = #005F87
+highlight = #BCBCBC

@@ -1,0 +1,40 @@
+# Theme: Liquid Carbon
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #000000
+# Red
+color2 = #ff3030
+# Green
+color3 = #559a70
+# Yellow
+color4 = #ccac00
+# Blue
+color5 = #0099cc
+# Magenta
+color6 = #cc69c8
+# Cyan
+color7 = #7ac4cc
+# Light gray
+color8 = #bccccc
+
+# Dark gray
+color9 = #000000
+# Light Red
+color10 = #ff3030
+# Light Green
+color11 = #559a70
+# Light Yellow
+color12 = #ccac00
+# Light Blue
+color13 = #0099cc
+# Light Magenta
+color14 = #cc69c8
+# Light Cyan
+color15 = #7ac4cc
+# White
+color16 = #bccccc
+
+background = #303030
+foreground = #afc2c2

@@ -1,0 +1,40 @@
+# Theme: Symphonic
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #1b1d21
+# Red
+color2 = #dc322f
+# Green
+color3 = #56db3a
+# Yellow
+color4 = #ff8400
+# Blue
+color5 = #0084d4
+# Magenta
+color6 = #b729d9
+# Cyan
+color7 = #ccccff
+# Light gray
+color8 = #ffffff
+
+# Dark gray
+color9 = #1b1d21
+# Light Red
+color10 = #dc322f
+# Light Green
+color11 = #56db3a
+# Light Yellow
+color12 = #ff8400
+# Light Blue
+color13 = #0084d4
+# Light Magenta
+color14 = #b729d9
+# Light Cyan
+color15 = #ccccff
+# White
+color16 = #ffffff
+
+background = #000000
+foreground = #ffffff

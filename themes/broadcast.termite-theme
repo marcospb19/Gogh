@@ -1,0 +1,40 @@
+# Theme: Broadcast
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #000000
+# Red
+color2 = #da4939
+# Green
+color3 = #519f50
+# Yellow
+color4 = #ffd24a
+# Blue
+color5 = #6d9cbe
+# Magenta
+color6 = #d0d0ff
+# Cyan
+color7 = #6e9cbe
+# Light gray
+color8 = #ffffff
+
+# Dark gray
+color9 = #323232
+# Light Red
+color10 = #ff7b6b
+# Light Green
+color11 = #83d182
+# Light Yellow
+color12 = #ffff7c
+# Light Blue
+color13 = #9fcef0
+# Light Magenta
+color14 = #ffffff
+# Light Cyan
+color15 = #a0cef0
+# White
+color16 = #ffffff
+
+background = #2b2b2b
+foreground = #e6e1dc

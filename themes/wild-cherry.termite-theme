@@ -1,0 +1,40 @@
+# Theme: Wild Cherry
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #000507
+# Red
+color2 = #d94085
+# Green
+color3 = #2ab250
+# Yellow
+color4 = #ffd16f
+# Blue
+color5 = #883cdc
+# Magenta
+color6 = #ececec
+# Cyan
+color7 = #c1b8b7
+# Light gray
+color8 = #fff8de
+
+# Dark gray
+color9 = #009cc9
+# Light Red
+color10 = #da6bac
+# Light Green
+color11 = #f4dca5
+# Light Yellow
+color12 = #eac066
+# Light Blue
+color13 = #308cba
+# Light Magenta
+color14 = #ae636b
+# Light Cyan
+color15 = #ff919d
+# White
+color16 = #e4838d
+
+background = #1f1726
+foreground = #dafaff

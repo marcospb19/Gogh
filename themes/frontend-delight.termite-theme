@@ -1,0 +1,40 @@
+# Theme: Frontend Delight
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #242526
+# Red
+color2 = #f8511b
+# Green
+color3 = #565747
+# Yellow
+color4 = #fa771d
+# Blue
+color5 = #2c70b7
+# Magenta
+color6 = #f02e4f
+# Cyan
+color7 = #3ca1a6
+# Light gray
+color8 = #adadad
+
+# Dark gray
+color9 = #5fac6d
+# Light Red
+color10 = #f74319
+# Light Green
+color11 = #74ec4c
+# Light Yellow
+color12 = #fdc325
+# Light Blue
+color13 = #3393ca
+# Light Magenta
+color14 = #e75e4f
+# Light Cyan
+color15 = #4fbce6
+# White
+color16 = #8c735b
+
+background = #1b1c1d
+foreground = #adadad

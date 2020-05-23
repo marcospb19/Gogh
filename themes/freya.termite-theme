@@ -1,0 +1,41 @@
+# Theme: Freya
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #073642
+# Red
+color2 = #dc322f
+# Green
+color3 = #859900
+# Yellow
+color4 = #b58900
+# Blue
+color5 = #268bd2
+# Magenta
+color6 = #ec0048
+# Cyan
+color7 = #2aa198
+# Light gray
+color8 = #94a3a5
+
+# Dark gray
+color9 = #586e75
+# Light Red
+color10 = #cb4b16
+# Light Green
+color11 = #859900
+# Light Yellow
+color12 = #b58900
+# Light Blue
+color13 = #268bd2
+# Light Magenta
+color14 = #d33682
+# Light Cyan
+color15 = #2aa198
+# White
+color16 = #6c71c4
+
+background = #252e32
+foreground = #94a3a5
+cursor = #839496

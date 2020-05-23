@@ -1,0 +1,40 @@
+# Theme: Ciapre
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #181818
+# Red
+color2 = #810009
+# Green
+color3 = #48513b
+# Yellow
+color4 = #cc8b3f
+# Blue
+color5 = #576d8c
+# Magenta
+color6 = #724d7c
+# Cyan
+color7 = #5c4f4b
+# Light gray
+color8 = #aea47f
+
+# Dark gray
+color9 = #555555
+# Light Red
+color10 = #ac3835
+# Light Green
+color11 = #a6a75d
+# Light Yellow
+color12 = #dcdf7c
+# Light Blue
+color13 = #3097c6
+# Light Magenta
+color14 = #d33061
+# Light Cyan
+color15 = #f3dbb2
+# White
+color16 = #f4f4f4
+
+background = #191c27
+foreground = #aea47a

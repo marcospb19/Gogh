@@ -1,0 +1,40 @@
+# Theme: Ura
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #000000
+# Red
+color2 = #c21b6f
+# Green
+color3 = #6fc21b
+# Yellow
+color4 = #c26f1b
+# Blue
+color5 = #1b6fc2
+# Magenta
+color6 = #6f1bc2
+# Cyan
+color7 = #1bc26f
+# Light gray
+color8 = #808080
+
+# Dark gray
+color9 = #808080
+# Light Red
+color10 = #ee84b9
+# Light Green
+color11 = #b9ee84
+# Light Yellow
+color12 = #eeb984
+# Light Blue
+color13 = #84b9ee
+# Light Magenta
+color14 = #b984ee
+# Light Cyan
+color15 = #84eeb9
+# White
+color16 = #e5e5e5
+
+background = #feffee
+foreground = #23476a

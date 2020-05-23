@@ -1,0 +1,40 @@
+# Theme: Earthsong
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #121418
+# Red
+color2 = #c94234
+# Green
+color3 = #85c54c
+# Yellow
+color4 = #f5ae2e
+# Blue
+color5 = #1398b9
+# Magenta
+color6 = #d0633d
+# Cyan
+color7 = #509552
+# Light gray
+color8 = #e5c6aa
+
+# Dark gray
+color9 = #675f54
+# Light Red
+color10 = #ff645a
+# Light Green
+color11 = #98e036
+# Light Yellow
+color12 = #e0d561
+# Light Blue
+color13 = #5fdaff
+# Light Magenta
+color14 = #ff9269
+# Light Cyan
+color15 = #84f088
+# White
+color16 = #f6f7ec
+
+background = #292520
+foreground = #e5c7a9

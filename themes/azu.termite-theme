@@ -1,0 +1,40 @@
+# Theme: Azu
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #000000
+# Red
+color2 = #ac6d74
+# Green
+color3 = #74ac6d
+# Yellow
+color4 = #aca46d
+# Blue
+color5 = #6d74ac
+# Magenta
+color6 = #a46dac
+# Cyan
+color7 = #6daca4
+# Light gray
+color8 = #e6e6e6
+
+# Dark gray
+color9 = #262626
+# Light Red
+color10 = #d6b8bc
+# Light Green
+color11 = #bcd6b8
+# Light Yellow
+color12 = #d6d3b8
+# Light Blue
+color13 = #b8bcd6
+# Light Magenta
+color14 = #d3b8d6
+# Light Cyan
+color15 = #b8d6d3
+# White
+color16 = #ffffff
+
+background = #09111a
+foreground = #d9e6f2

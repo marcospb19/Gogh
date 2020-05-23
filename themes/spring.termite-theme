@@ -1,0 +1,40 @@
+# Theme: Spring
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #000000
+# Red
+color2 = #ff4d83
+# Green
+color3 = #1f8c3b
+# Yellow
+color4 = #1fc95b
+# Blue
+color5 = #1dd3ee
+# Magenta
+color6 = #8959a8
+# Cyan
+color7 = #3e999f
+# Light gray
+color8 = #ffffff
+
+# Dark gray
+color9 = #000000
+# Light Red
+color10 = #ff0021
+# Light Green
+color11 = #1fc231
+# Light Yellow
+color12 = #d5b807
+# Light Blue
+color13 = #15a9fd
+# Light Magenta
+color14 = #8959a8
+# Light Cyan
+color15 = #3e999f
+# White
+color16 = #ffffff
+
+background = #0a1e24
+foreground = #ecf0c1

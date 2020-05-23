@@ -1,0 +1,40 @@
+# Theme: Afterglow
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #151515
+# Red
+color2 = #a53c23
+# Green
+color3 = #7b9246
+# Yellow
+color4 = #d3a04d
+# Blue
+color5 = #6c99bb
+# Magenta
+color6 = #9f4e85
+# Cyan
+color7 = #7dd6cf
+# Light gray
+color8 = #d0d0d0
+
+# Dark gray
+color9 = #505050
+# Light Red
+color10 = #a53c23
+# Light Green
+color11 = #7b9246
+# Light Yellow
+color12 = #d3a04d
+# Light Blue
+color13 = #547c99
+# Light Magenta
+color14 = #9f4e85
+# Light Cyan
+color15 = #7dd6cf
+# White
+color16 = #f5f5f5
+
+background = #222222
+foreground = #d0d0d0

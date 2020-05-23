@@ -1,0 +1,40 @@
+# Theme: Fishtank
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #03073c
+# Red
+color2 = #c6004a
+# Green
+color3 = #acf157
+# Yellow
+color4 = #fecd5e
+# Blue
+color5 = #525fb8
+# Magenta
+color6 = #986f82
+# Cyan
+color7 = #968763
+# Light gray
+color8 = #ecf0fc
+
+# Dark gray
+color9 = #6c5b30
+# Light Red
+color10 = #da4b8a
+# Light Green
+color11 = #dbffa9
+# Light Yellow
+color12 = #fee6a9
+# Light Blue
+color13 = #b2befa
+# Light Magenta
+color14 = #fda5cd
+# Light Cyan
+color15 = #a5bd86
+# White
+color16 = #f6ffec
+
+background = #232537
+foreground = #ecf0fe

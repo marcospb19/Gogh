@@ -1,0 +1,40 @@
+# Theme: Terminix Dark
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #282a2e
+# Red
+color2 = #a54242
+# Green
+color3 = #a1b56c
+# Yellow
+color4 = #de935f
+# Blue
+color5 = #225555
+# Magenta
+color6 = #85678f
+# Cyan
+color7 = #5e8d87
+# Light gray
+color8 = #777777
+
+# Dark gray
+color9 = #373b41
+# Light Red
+color10 = #c63535
+# Light Green
+color11 = #608360
+# Light Yellow
+color12 = #fa805a
+# Light Blue
+color13 = #449da1
+# Light Magenta
+color14 = #ba8baf
+# Light Cyan
+color15 = #86c1b9
+# White
+color16 = #c5c8c6
+
+background = #091116
+foreground = #868A8C

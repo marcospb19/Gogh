@@ -1,0 +1,40 @@
+# Theme: Clrs
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #000000
+# Red
+color2 = #f8282a
+# Green
+color3 = #328a5d
+# Yellow
+color4 = #fa701d
+# Blue
+color5 = #135cd0
+# Magenta
+color6 = #9f00bd
+# Cyan
+color7 = #33c3c1
+# Light gray
+color8 = #b3b3b3
+
+# Dark gray
+color9 = #555753
+# Light Red
+color10 = #fb0416
+# Light Green
+color11 = #2cc631
+# Light Yellow
+color12 = #fdd727
+# Light Blue
+color13 = #1670ff
+# Light Magenta
+color14 = #e900b0
+# Light Cyan
+color15 = #3ad5ce
+# White
+color16 = #eeeeec
+
+background = #ffffff
+foreground = #262626

@@ -1,0 +1,41 @@
+# Theme: Hemisu Dark
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #444444
+# Red
+color2 = #FF0054
+# Green
+color3 = #B1D630
+# Yellow
+color4 = #9D895E
+# Blue
+color5 = #67BEE3
+# Magenta
+color6 = #B576BC
+# Cyan
+color7 = #569A9F
+# Light gray
+color8 = #EDEDED
+
+# Dark gray
+color9 = #777777
+# Light Red
+color10 = #D65E75
+# Light Green
+color11 = #BAFFAA
+# Light Yellow
+color12 = #ECE1C8
+# Light Blue
+color13 = #9FD3E5
+# Light Magenta
+color14 = #DEB3DF
+# Light Cyan
+color15 = #B6E0E5
+# White
+color16 = #FFFFFF
+
+background = #000000
+foreground = #FFFFFF
+cursor = #BAFFAA

@@ -1,0 +1,41 @@
+# Theme: Material
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #073641
+# Red
+color2 = #EB606B
+# Green
+color3 = #C3E88D
+# Yellow
+color4 = #F7EB95
+# Blue
+color5 = #80CBC3
+# Magenta
+color6 = #FF2490
+# Cyan
+color7 = #AEDDFF
+# Light gray
+color8 = #FFFFFF
+
+# Dark gray
+color9 = #002B36
+# Light Red
+color10 = #EB606B
+# Light Green
+color11 = #C3E88D
+# Light Yellow
+color12 = #F7EB95
+# Light Blue
+color13 = #7DC6BF
+# Light Magenta
+color14 = #6C71C3
+# Light Cyan
+color15 = #34434D
+# White
+color16 = #FFFFFF
+
+background = #1E282C
+foreground = #C3C7D1
+cursor = #657B83

@@ -1,0 +1,40 @@
+# Theme: Vag
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #303030
+# Red
+color2 = #a87139
+# Green
+color3 = #39a871
+# Yellow
+color4 = #71a839
+# Blue
+color5 = #7139a8
+# Magenta
+color6 = #a83971
+# Cyan
+color7 = #3971a8
+# Light gray
+color8 = #8a8a8a
+
+# Dark gray
+color9 = #494949
+# Light Red
+color10 = #b0763b
+# Light Green
+color11 = #3bb076
+# Light Yellow
+color12 = #76b03b
+# Light Blue
+color13 = #763bb0
+# Light Magenta
+color14 = #b03b76
+# Light Cyan
+color15 = #3b76b0
+# White
+color16 = #cfcfcf
+
+background = #191f1d
+foreground = #d9e6f2

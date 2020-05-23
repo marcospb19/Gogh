@@ -1,0 +1,40 @@
+# Theme: Highway
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #000000
+# Red
+color2 = #d00e18
+# Green
+color3 = #138034
+# Yellow
+color4 = #ffcb3e
+# Blue
+color5 = #006bb3
+# Magenta
+color6 = #6b2775
+# Cyan
+color7 = #384564
+# Light gray
+color8 = #ededed
+
+# Dark gray
+color9 = #5d504a
+# Light Red
+color10 = #f07e18
+# Light Green
+color11 = #b1d130
+# Light Yellow
+color12 = #fff120
+# Light Blue
+color13 = #4fc2fd
+# Light Magenta
+color14 = #de0071
+# Light Cyan
+color15 = #5d504a
+# White
+color16 = #ffffff
+
+background = #222225
+foreground = #ededed

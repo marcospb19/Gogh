@@ -1,0 +1,40 @@
+# Theme: Atom
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #000000
+# Red
+color2 = #fd5ff1
+# Green
+color3 = #87c38a
+# Yellow
+color4 = #ffd7b1
+# Blue
+color5 = #85befd
+# Magenta
+color6 = #b9b6fc
+# Cyan
+color7 = #85befd
+# Light gray
+color8 = #e0e0e0
+
+# Dark gray
+color9 = #000000
+# Light Red
+color10 = #fd5ff1
+# Light Green
+color11 = #94fa36
+# Light Yellow
+color12 = #f5ffa8
+# Light Blue
+color13 = #96cbfe
+# Light Magenta
+color14 = #b9b6fc
+# Light Cyan
+color15 = #85befd
+# White
+color16 = #e0e0e0
+
+background = #161719
+foreground = #c5c8c6

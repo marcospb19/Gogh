@@ -1,0 +1,40 @@
+# Theme: Kokuban
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #2E8744
+# Red
+color2 = #D84E4C
+# Green
+color3 = #95DA5A
+# Yellow
+color4 = #D6E264
+# Blue
+color5 = #4B9ED7
+# Magenta
+color6 = #945FC5
+# Cyan
+color7 = #D89B25
+# Light gray
+color8 = #D8E2D7
+
+# Dark gray
+color9 = #34934F
+# Light Red
+color10 = #FF4F59
+# Light Green
+color11 = #AFF56A
+# Light Yellow
+color12 = #FCFF75
+# Light Blue
+color13 = #57AEFF
+# Light Magenta
+color14 = #AE63E9
+# Light Cyan
+color15 = #FFAA2B
+# White
+color16 = #FFFEFE
+
+background = #0D4A08
+foreground = #D8E2D7

@@ -1,0 +1,40 @@
+# Theme: Foxnightly
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #A40000
+# Red
+color2 = #B98EFF
+# Green
+color3 = #FF7DE9
+# Yellow
+color4 = #729FCF
+# Blue
+color5 = #66A05B
+# Magenta
+color6 = #75507B
+# Cyan
+color7 = #ACACAE
+# Light gray
+color8 = #FFFFFF
+
+# Dark gray
+color9 = #A40000
+# Light Red
+color10 = #BF4040
+# Light Green
+color11 = #66A05B
+# Light Yellow
+color12 = #FFB86C
+# Light Blue
+color13 = #729FCF
+# Light Magenta
+color14 = #8F5902
+# Light Cyan
+color15 = #C4A000
+# White
+color16 = #5C3566
+
+background = #2A2A2E
+foreground = #D7D7DB

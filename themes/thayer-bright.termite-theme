@@ -1,0 +1,40 @@
+# Theme: Thayer Bright
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #505354
+# Red
+color2 = #f92672
+# Green
+color3 = #4df840
+# Yellow
+color4 = #f4fd22
+# Blue
+color5 = #2757d6
+# Magenta
+color6 = #8c54fe
+# Cyan
+color7 = #38c8b5
+# Light gray
+color8 = #ccccc6
+
+# Dark gray
+color9 = #505354
+# Light Red
+color10 = #ff5995
+# Light Green
+color11 = #b6e354
+# Light Yellow
+color12 = #feed6c
+# Light Blue
+color13 = #3f78ff
+# Light Magenta
+color14 = #9e6ffe
+# Light Cyan
+color15 = #23cfd5
+# White
+color16 = #f8f8f2
+
+background = #1b1d1e
+foreground = #f8f8f8

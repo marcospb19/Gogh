@@ -1,0 +1,40 @@
+# Theme: Treehouse
+# From https://github.com/marcospb19/termite-themes
+
+[colors]
+# Black
+color1 = #321300
+# Red
+color2 = #b2270e
+# Green
+color3 = #44a900
+# Yellow
+color4 = #aa820c
+# Blue
+color5 = #58859a
+# Magenta
+color6 = #97363d
+# Cyan
+color7 = #b25a1e
+# Light gray
+color8 = #786b53
+
+# Dark gray
+color9 = #433626
+# Light Red
+color10 = #ed5d20
+# Light Green
+color11 = #55f238
+# Light Yellow
+color12 = #f2b732
+# Light Blue
+color13 = #85cfed
+# Light Magenta
+color14 = #e14c5a
+# Light Cyan
+color15 = #f07d14
+# White
+color16 = #ffc800
+
+background = #191919
+foreground = #786b53
