@@ -9,7 +9,7 @@ from typing import List, Tuple, Union
 
 
 ExitCode_t = int
-THEMES_PATH: str = str(Path('themes/*').resolve())  # Used in main()
+THEMES_PATH: str = str(Path(sys.argv[0]).parent / 'themes/*')  # Used in main()
 
 
 def run_argparse() -> argparse.Namespace:
