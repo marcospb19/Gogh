@@ -2,7 +2,7 @@ import argparse
 import sys
 from pathlib import Path
 from glob import glob
-from typing import List, Tuple
+from typing import List, Tuple, Union
 
 
 THEMES_PATH: str = str(Path('themes/*').resolve())  # Used in main()
@@ -16,6 +16,13 @@ def run_argparse() -> argparse.Namespace:
         '--copy',
         dest='copy_path',
         help='copy theme to COPY_PATH instead of printint it on the terminal',
+    )
+    parser.add_argument(
+        '-f',
+        '--force',
+        action='store_true',
+        dest='force_copy',
+        help='use when with --copy to override file if it already exists',
     )
     theme_selection_group = parser.add_mutually_exclusive_group(required=True)
     theme_selection_group.add_argument(
@@ -32,16 +39,20 @@ def printerr(*args, **kwargs):
     print(*args, file=sys.stderr, **kwargs)
 
 
-def load_themes(path: str) -> Tuple[List[str], List[str]]:
+def load_themes(load_path: str) -> Tuple[List[str], List[str]]:
     """
-    loads themes from received path
+    loads themes from received load_path
 
-    returns 2 lists:
-       return (paths, names)
+    return 2 lists:
+        return (paths, names)
 
-    where paths[i] and names[i] correspond to information from same theme
+    where paths[i] and names[i] correspond to the same theme
     """
-    file_paths: List[str] = glob(path)
+    file_paths: List[str] = glob(load_path)
+
+    if not file_paths:
+        printerr(f'could not load any themes from {load_path}')
+        exit(1)
 
     # from file_paths, filter the files that are valid themes
     # each tuple is a theme (path, name)
