@@ -8,8 +8,8 @@ from glob import glob
 from typing import List, Tuple, Union
 
 
-ExitCode_t = int
-THEMES_PATH: str = str(Path(sys.argv[0]).parent / 'themes/*')  # Used in main()
+ExitCode_t = int  # type alias
+THEMES_PATH: str = str(Path(sys.argv[0]).parent / 'themes/*')  # used in main()
 
 
 def run_argparse() -> argparse.Namespace:
@@ -19,7 +19,8 @@ def run_argparse() -> argparse.Namespace:
         '-c',
         '--copy',
         dest='copy_path',
-        help='copy theme to COPY_PATH instead of printint it on the terminal, if COPY_PATH is a simple file or symlink, --force is needed to overwrite it (unless the file is already a valid theme)',
+        metavar='PATH',
+        help='copy theme to PATH instead of printint it on the terminal, if PATH is a simple file or symlink, --force is needed to overwrite it (unless the file is already a valid theme)',
     )
     parser.add_argument(
         '-f',
@@ -33,7 +34,11 @@ def run_argparse() -> argparse.Namespace:
         '-r', '--random', action='store_true', help='choose a random theme'
     )
     theme_selection_group.add_argument(
-        '-t', '--theme', dest='theme_name', help='pass THEME_NAME to choose the theme'
+        '-t',
+        '--theme',
+        dest='theme_name',
+        metavar='NAME',
+        help='pass NAME to choose the theme by it\'s name',
     )
     return parser.parse_args()
 
@@ -179,7 +184,7 @@ def stdout_theme_output(path: str):
     print(open(path, 'r').read(), end='')
 
 
-def main():
+def main() -> ExitCode_t:
     """ main function """
     theme_paths: List[str]
     theme_names: List[str]
@@ -196,14 +201,25 @@ def main():
         if not args.copy_path:
             print(f'--random chose "{theme_names[chosen_theme_index]}"')
 
+    elif args.theme_name is not None:
+
+        # if args.theme_name don't match with any theme_names element, exit
+        if not args.theme_name in theme_names:
+            printerr(f'"{args.theme_name}" is not a valid theme')
+            return 1
+
+        chosen_theme_index = theme_names.index(args.theme_name)
+
     # picking up theme from chosen
     theme_path = theme_paths[chosen_theme_index]
     theme_name = theme_names[chosen_theme_index]
 
     if args.copy_path is not None:
-        exit(copy_theme(theme_path, args.copy_path, args.force_copy, theme_name))
+        return copy_theme(theme_path, args.copy_path, args.force_copy, theme_name)
     else:
         stdout_theme_output(theme_path)
+
+    return 0
 
 
 if __name__ == '__main__':
