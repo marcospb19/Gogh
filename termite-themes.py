@@ -148,13 +148,12 @@ def copy_theme(
     # assert force_copy_flag is True
     print('--force: trying to replace file')
 
-    if Path(dst).is_file() or Path(dst).is_symlink():
-
+    if Path(dst).is_file():
         # tell what you are doing
-        if Path(dst).is_file():
-            print(f'--force: {dst} is a file, removing')
         if Path(dst).is_symlink():
             print(f'--force: {dst} is a symbolic link, removing')
+        elif Path(dst).is_file():
+            print(f'--force: {dst} is a file, removing')
 
         try:
             os.remove(dst)
