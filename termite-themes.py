@@ -19,7 +19,7 @@ def run_argparse() -> argparse.Namespace:
         '-c',
         '--copy',
         dest='copy_path',
-        help='copy theme to COPY_PATH instead of printint it on the terminal',
+        help='copy theme to COPY_PATH instead of printint it on the terminal, if COPY_PATH is a simple file or symlink, --force is needed to overwrite it (unless the file is already a valid theme)',
     )
     parser.add_argument(
         '-f',
@@ -115,9 +115,8 @@ def copy_theme(
 
     # messages
     COPY_SUCCESS_MESSAGE: str = (
-        ''
-        f'Success! "{theme_name}" theme copied.\n'
-        '\n'
+        f'Success! "{theme_name}" theme copied.\n'  # keep this comment
+        f'\n'
         f'from: {src}\n'
         f'to:   {dst}'
     )
@@ -125,20 +124,20 @@ def copy_theme(
     PERMISSION_DENIED_MESSAGE: str = f'Permission denied: {dst}'
     UNEXPECTED_ERROR_MESSAGE: str = '\nA unexpected error occurred :(\n'
 
-    # if destination isn't already a file or is a target directory
-    if not Path(dst).exists():
-        try:
+    try:
+        # if destination isn't already a file or is a theme file
+        if not Path(dst).exists() or (
+            Path(dst).is_file() and open(src, 'r').readline().startswith('# Theme: ')
+        ):
             copy(src, dst)
-        except PermissionError:
-            printerr(PERMISSION_DENIED_MESSAGE)
-            return 1
-        except:
-            printerr(UNEXPECTED_ERROR_MESSAGE)
-            raise
-        # success
-        else:
             print(COPY_SUCCESS_MESSAGE)
             return 0
+    except PermissionError:
+        printerr(PERMISSION_DENIED_MESSAGE)
+        return 1
+    except:
+        printerr(UNEXPECTED_ERROR_MESSAGE)
+        raise
 
     # assert Path(dst).exists()
 
@@ -207,4 +206,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
