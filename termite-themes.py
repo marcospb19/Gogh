@@ -77,13 +77,13 @@ def basename_sh_util(path: Union[Path, str]) -> str:
     clone of unix's "basename"
     grab a complete path and return only the name of the file (last / forward)
     """
-    path: str = str(path)  # turn possible Path type into str type
+    path_string: str = str(path)  # turn possible Path type into str type
 
     # if no /, return it as it is
-    if path.find('/') == -1:
-        return path
+    if path_string.find('/') == -1:
+        return path_string
     else:
-        return path.rpartition('/')[2]
+        return path_string.rpartition('/')[2]
 
 
 def copy_theme(
@@ -171,6 +171,9 @@ def copy_theme(
         else:
             print(COPY_SUCCESS_MESSAGE)
             return 0
+
+    printerr(f'Could not remove unknown file at {dst}, copy failed')
+    return 1
 
 
 def stdout_theme_output(path: str):
