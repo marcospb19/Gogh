@@ -35,16 +35,25 @@ def run_argparse() -> argparse.Namespace:
         help='Make --copy overwrite (not required if PATH is a valid theme)',
     )
 
-    # need -r or -t, but not both
-    theme_selection_group = parser.add_mutually_exclusive_group(required=True)
-    theme_selection_group.add_argument(
+    # need -r or -t or -l, but only one of them
+    exclusive_group = parser.add_mutually_exclusive_group(required=True)
+    # --list cut the effect of theme selection (--random, --theme)
+    exclusive_group.add_argument(
+        '-l',
+        '--list',
+        action='store_true',
+        dest='list_flag',
+        help='List all themes available',
+    )
+    # next two are for theme selection
+    exclusive_group.add_argument(
         '-r',
         '--random',
         dest='random_flag',
         action='store_true',
         help='Choose a random theme',
     )
-    theme_selection_group.add_argument(
+    exclusive_group.add_argument(
         '-t',
         '--theme',
         dest='theme_name_flag',
@@ -191,8 +200,13 @@ def copy_theme(
     return 1
 
 
-def stdout_theme_output(path: str):
+def stdout_theme_content(path: str):
     print(open(path, 'r').read(), end='')
+
+
+def list_themes(theme_names: List[str]):
+    for i, name in enumerate(theme_names):
+        print(f'%3d: "{name}"' % (i + 1))
 
 
 def main() -> ExitCode_t:
@@ -203,6 +217,10 @@ def main() -> ExitCode_t:
 
     args: argparse.Namespace
     args = run_argparse()
+
+    if args.list_flag is True:
+        list_themes(theme_names)
+        return 0
 
     chosen_theme_index: int  # choosing the theme!
     if args.random_flag is True:
@@ -230,7 +248,7 @@ def main() -> ExitCode_t:
             theme_path, args.copy_path_flag, args.force_copy_flag, theme_name
         )
     else:
-        stdout_theme_output(theme_path)
+        stdout_theme_content(theme_path)
 
     return 0
 

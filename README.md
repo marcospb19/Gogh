@@ -63,6 +63,8 @@ python termite-themes.py -t "Zenburn"            #
 python termite-themes.py -t 'Zenburn'            # '' works like ""!
 ```
 
+continuation of readme...
+
 ### Extras:
 Vim users, to enable termite files syntax highlight:
 > Add `# vim: ft=dosini cms=#%s` your config file
