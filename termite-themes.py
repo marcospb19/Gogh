@@ -14,31 +14,42 @@ THEMES_PATH: str = str(Path(sys.argv[0]).parent / 'themes/*')  # used in main()
 
 def run_argparse() -> argparse.Namespace:
     """ wrap argparse configuration """
-    parser = argparse.ArgumentParser()
+    parser = argparse.ArgumentParser(
+        usage='%(prog)s [options]',
+        description='A termite themes manager',
+        epilog='See more at https://github.com/marcospb19/termite-themes',
+    )
+
     parser.add_argument(
         '-c',
         '--copy',
-        dest='copy_path',
+        dest='copy_path_flag',
         metavar='PATH',
-        help='copy theme to PATH instead of printint it on the terminal, if PATH is a simple file or symlink, --force is needed to overwrite it (unless the file is already a valid theme)',
+        help='Copy theme to PATH instead of printint it out',
     )
     parser.add_argument(
         '-f',
         '--force',
         action='store_true',
-        dest='force_copy',
-        help='use when with --copy to override file if it already exists',
+        dest='force_copy_flag',
+        help='Make --copy overwrite (not required if PATH is a valid theme)',
     )
+
+    # need -r or -t, but not both
     theme_selection_group = parser.add_mutually_exclusive_group(required=True)
     theme_selection_group.add_argument(
-        '-r', '--random', action='store_true', help='choose a random theme'
+        '-r',
+        '--random',
+        dest='random_flag',
+        action='store_true',
+        help='Choose a random theme',
     )
     theme_selection_group.add_argument(
         '-t',
         '--theme',
-        dest='theme_name',
+        dest='theme_name_flag',
         metavar='NAME',
-        help='pass NAME to choose the theme by it\'s name',
+        help='Choose theme by NAME',
     )
     return parser.parse_args()
 
@@ -194,28 +205,30 @@ def main() -> ExitCode_t:
     args = run_argparse()
 
     chosen_theme_index: int  # choosing the theme!
-    if args.random is True:
+    if args.random_flag is True:
         chosen_theme_index = random.randrange(len(theme_paths))
 
         # check necessary, don't show in case output is meant to be redirected!
-        if not args.copy_path:
+        if not args.copy_path_flag:
             print(f'--random chose "{theme_names[chosen_theme_index]}"')
 
-    elif args.theme_name is not None:
+    elif args.theme_name_flag is not None:
 
-        # if args.theme_name don't match with any theme_names element, exit
-        if not args.theme_name in theme_names:
-            printerr(f'"{args.theme_name}" is not a valid theme')
+        # if args.theme_name_flag don't match with any theme_names element, exit
+        if not args.theme_name_flag in theme_names:
+            printerr(f'"{args.theme_name_flag}" is not a valid theme')
             return 1
 
-        chosen_theme_index = theme_names.index(args.theme_name)
+        chosen_theme_index = theme_names.index(args.theme_name_flag)
 
     # picking up theme from chosen
     theme_path = theme_paths[chosen_theme_index]
     theme_name = theme_names[chosen_theme_index]
 
-    if args.copy_path is not None:
-        return copy_theme(theme_path, args.copy_path, args.force_copy, theme_name)
+    if args.copy_path_flag is not None:
+        return copy_theme(
+            theme_path, args.copy_path_flag, args.force_copy_flag, theme_name
+        )
     else:
         stdout_theme_output(theme_path)
 
