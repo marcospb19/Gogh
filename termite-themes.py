@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# https://github.com/marcospb19/termite-themes
+
 import argparse
 import os
 import random
@@ -9,7 +12,14 @@ from typing import List, Tuple, Union
 
 
 ExitCode_t = int  # type alias
-THEMES_PATH: str = str(Path(sys.argv[0]).parent / 'themes/*')  # used in main()
+
+# This block chooses the path to THEMES_PATH!
+SYSTEM_THEMES_PATH: str = '/usr/share/termite-themes/themes/*'
+THEMES_PATH: str  # used in main()
+if glob(SYSTEM_THEMES_PATH):
+    THEMES_PATH = SYSTEM_THEMES_PATH  # System reference (if installed)
+else:
+    THEMES_PATH = str(Path(sys.argv[0]).parent / 'themes/*')  # Local reference
 
 
 def run_argparse() -> argparse.Namespace:
@@ -227,7 +237,7 @@ def main() -> ExitCode_t:
         chosen_theme_index = random.randrange(len(theme_paths))
 
         # check necessary, don't show in case output is meant to be redirected!
-        if not args.copy_path_flag:
+        if args.copy_path_flag:
             print(f'--random chose "{theme_names[chosen_theme_index]}"')
 
     elif args.theme_name_flag is not None:
